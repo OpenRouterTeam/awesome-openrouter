@@ -7,6 +7,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 
 ## Table of Contents
 
+- [AiAssistWorks](#aiassistworks)
 - [Aider](#aider)
 - [Chorus](#chorus)
 - [GitHub Copilot](#github-copilot)
@@ -19,6 +20,18 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [SillyTavern](#sillytavern)
 
 ## Apps
+
+### [AiAssistWorks](https://www.aiassistworks.com/)
+
+<img src="./apps/aiassistworks/logo.png" alt="AiAssistWorks logo" width="64" height="64">
+
+AI for Google Sheets™, Slides™ & Docs™. Fill, clean, and categorize 100k+ rows with simple text commands—no complex formulas needed. Create charts, pivot tables, and write content using 100+ AI models.
+
+`productivity` `creative`
+
+[Documentation](https://support.aiassistworks.com/kb/article/8/setting-up-openrouter-api-key)
+
+---
 
 ### [Aider](https://aider.chat)
 
