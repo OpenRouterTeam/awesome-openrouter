@@ -1,7 +1,7 @@
 name: "Warden"
 description: "A Native Swift MacOS app that that supports multiple AI providers and models using your own API keys."
 url: "https://karatsidhu.gumroad.com/l/warden"
-docs: "https://github.com/SidhuK/WardenApp/blob/main/README.md"
+docs: "https://github.com/SidhuK/WardenApp/blob/main/Setup.MD"
 tags:
   - chat
 open_source: "https://github.com/SidhuK/WardenApp"
