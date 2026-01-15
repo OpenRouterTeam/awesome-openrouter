@@ -1,0 +1,9 @@
+name: "analystOS"
+description: "Web UI for AI-powered research + optional Notion automation. Upload docs, scrape URLs, chat with research via RAG. Connect Notion for zero-touch automated reports. 50+ OpenRouter models."
+url: "https://github.com/sheeki03/analystOS"
+docs: "https://github.com/sheeki03/analystOS#readme"
+tags:
+  - research
+  - productivity
+open_source: "https://github.com/sheeki03/analystOS"
+date_added: "2025-01-15"
