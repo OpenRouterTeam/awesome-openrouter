@@ -1,0 +1,9 @@
+name: "ChatLima"
+description: "Feature-rich MCP-powered AI chatbot with multi-model support, image input, PDF export, and comprehensive API key management for OpenRouter"
+url: "https://www.chatlima.com"
+docs: "https://www.chatlima.com"
+tags:
+  - chat
+  - productivity
+open_source: "https://github.com/brooksy4503/chatlima"
+date_added: "2025-01-15"
