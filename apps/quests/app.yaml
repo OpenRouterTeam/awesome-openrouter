@@ -1,0 +1,11 @@
+name: "Quests"
+description: "The open-source app builder."
+url: "https://quests.dev"
+docs: "https://quests.dev/providers/openrouter"
+tags:
+  - chat
+  - coding
+  - productivity
+  - creative
+open_source: "https://github.com/quests-org/quests"
+date_added: "2026-01-15"
