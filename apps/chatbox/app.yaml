@@ -1,7 +1,7 @@
 name: "Chatbox"
 description: "Your Ultimate AI Copilot on the Desktop. Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux, iOS, and Android."
 url: "https://chatboxai.app"
-docs: "https://chatboxai.app/en/help-center"
+docs: "https://docs.chatboxai.app/en/guides/providers/openrouter"
 tags:
   - chat
   - coding
