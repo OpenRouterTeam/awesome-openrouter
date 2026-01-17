@@ -1,0 +1,8 @@
+name: "VT Code"
+description: "Semantic coding agent in the terminal"
+url: "https://github.com/vinhnx/vtcode"
+docs: "https://github.com/vinhnx/vtcode/blob/main/docs/providers/openrouter.md"  # Link to OpenRouter setup instructions
+tags:
+  - coding
+open_source: "https://github.com/vinhnx/vtcode"
+date_added: "2024-01-17"
