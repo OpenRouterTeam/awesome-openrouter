@@ -1,0 +1,8 @@
+name: "Shakespeare"
+description: "An open-source browser-based AI application builder that works entirely in-browser without a backend. Supports OpenRouter, OpenCode, OpenAI, Anthropic, and more."
+url: "https://shakespeare.diy"
+docs: "https://soapbox.pub/shakespeare-resources/"
+tags:
+  - coding
+open_source: "https://gitlab.com/soapbox-pub/shakespeare"
+date_added: "2026-01-15"
