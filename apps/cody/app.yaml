@@ -1,0 +1,8 @@
+name: "cody"
+description: "Cody is yet another terminal agent. Harness agentic models from OpenRouter's API via command line."
+url: "https://github.com/botica/cody"
+docs: "https://github.com/botica/cody/blob/openrouter/README.md"  # Link to OpenRouter setup instructions
+tags:
+  - coding  # Choose from: chat, coding, productivity, creative, research, other
+open_source: "https://github.com/botica/cody"  # Optional: remove if not open source
+date_added: "2026-01-20"  # Use today's date in YYYY-MM-DD format
