@@ -1,0 +1,7 @@
+name: "PostQode"
+description: "AI-powered SDLC platform with specialized agents for API, Web, and Mobile testing, plus a generic Agent for development."
+url: "https://postqode.ai"
+docs: "https://docs.postqode.ai/settings/model-configuration"
+tags:
+  - productivity
+date_added: "2026-01-21"
