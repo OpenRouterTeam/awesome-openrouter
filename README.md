@@ -37,6 +37,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Kilo Code](#kilo-code)
 - [LibreChat](#librechat)
 - [Mastra](#mastra)
+- [Moltbot](#moltbot)
 - [nanocode](#nanocode)
 - [Novelcrafter](#novelcrafter)
 - [Ottex](#ottex)
@@ -204,6 +205,18 @@ An open-source TypeScript framework for building AI-powered applications and age
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/mastra-ai/mastra)
 
 [Documentation](https://mastra.ai/docs/frameworks/agentic-uis/openrouter)
+
+---
+
+### [Moltbot](https://clawd.bot/)
+
+<img src="./apps/moltbot/logo.png" alt="Moltbot logo" width="64" height="64">
+
+A personal AI assistant you run on your own devices. Connects to WhatsApp, Telegram, Discord, Slack, and 50+ other services with persistent memory and extensible capabilities.
+
+`productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/moltbot/moltbot)
+
+[Documentation](https://docs.molt.bot/providers/openrouter)
 
 ---
 

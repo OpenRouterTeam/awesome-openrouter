@@ -163,6 +163,18 @@
     "dateAdded": "2026-01-13"
   },
   {
+    "slug": "moltbot",
+    "name": "Moltbot",
+    "description": "A personal AI assistant you run on your own devices. Connects to WhatsApp, Telegram, Discord, Slack, and 50+ other services with persistent memory and extensible capabilities.",
+    "url": "https://clawd.bot/",
+    "docs": "https://docs.molt.bot/providers/openrouter",
+    "tags": [
+      "productivity"
+    ],
+    "openSource": "https://github.com/moltbot/moltbot",
+    "dateAdded": "2026-01-27"
+  },
+  {
     "slug": "nanocode",
     "name": "nanocode",
     "description": "Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines. Full agentic coding loop with tools for read, write, edit, glob, grep, and bash.",
