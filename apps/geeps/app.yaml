@@ -1,0 +1,7 @@
+name: "Geeps"
+description: "Lightweight native AI chat for iOS and macOS. Multiple AI providers and models in a single app. Use with your own API keys."
+url: "https://geeps.app"
+docs: "https://geeps.app/docs/essentials/api-settings"
+tags:
+  - chat
+date_added: "2026-01-28"
