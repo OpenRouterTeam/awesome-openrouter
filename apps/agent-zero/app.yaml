@@ -1,0 +1,10 @@
+name: "Agent Zero"
+description: "Build autonomous AI agents effortlessly."
+url: "https://www.agent-zero.ai/"
+docs: "https://www.agent-zero.ai/p/docs/get-started/#configuration"
+tags:
+  - chat
+  - research
+  - productivity
+open_source: "https://github.com/agent0ai/agent-zero"
+date_added: "2026-01-28"
