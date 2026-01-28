@@ -1,0 +1,8 @@
+name: "Binance US MCP"
+description: "MCP server for Binance.US API. Market data, spot trading, wallets, staking, OTC, sub-accounts. Auto rate limiting and error handling for AI agents."
+url: "https://github.com/nirholas/Binance-US-MCP"
+docs: "https://github.com/nirholas/binance-us-mcp/blob/main/docs/openrouter.md"
+tags:
+  - coding
+open_source: "https://github.com/nirholas/Binance-US-MCP"
+date_added: "2026-01-28"

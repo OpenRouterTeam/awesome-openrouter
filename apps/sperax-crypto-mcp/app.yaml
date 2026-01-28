@@ -1,0 +1,8 @@
+name: "Sperax Crypto MCP"
+description: "MCP server for Sperax Protocol - USDs stablecoin, SPA, veSPA & Demeter on Arbitrum and BNB Chain. Listed on Anthropic's official MCP Registry."
+url: "https://github.com/nirholas/sperax-crypto-mcp"
+docs: "https://github.com/nirholas/sperax-crypto-mcp/blob/main/docs/openrouter.md"
+tags:
+  - coding
+open_source: "https://github.com/nirholas/sperax-crypto-mcp"
+date_added: "2026-01-28"

@@ -1,0 +1,9 @@
+name: "Lyra Intel"
+description: "Intelligence platform for analyzing repositories of any size. 70+ components for code analysis, security scanning, AI integration. Enterprise monorepo support."
+url: "https://github.com/nirholas/lyra-intel"
+docs: "https://github.com/nirholas/lyra-intel/blob/main/docs/openrouter.md"
+tags:
+  - coding
+  - research
+open_source: "https://github.com/nirholas/lyra-intel"
+date_added: "2026-01-28"
