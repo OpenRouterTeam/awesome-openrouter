@@ -1,0 +1,9 @@
+name: "Nikke-DB Story/Roleplaying Generator"
+description: "Interactive roleplay and story generation tool in the Goddess of Victory: NIKKE universe. Features synced Live2D animations and context-aware emotional expressions of the characters."
+url: "https://nikke-db.pages.dev/story-gen"
+docs: "https://nikke-db.pages.dev/story-gen"
+tags:
+  - chat
+  - creative
+open_source: "https://github.com/Nikke-db/nikke-db-vue"
+date_added: "2026-01-28"
