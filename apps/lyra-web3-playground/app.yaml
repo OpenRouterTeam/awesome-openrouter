@@ -1,0 +1,9 @@
+name: "Lyra Web3 Playground"
+description: "Free Solidity compiler & Web3 IDE with AI assistance. Deploy to 8+ chains. Templates for tokens, NFTs, DeFi, DAOs. Monaco Editor, WCAG accessible. Remix alternative."
+url: "https://github.com/nirholas/lyra-web3-playground"
+docs: "https://github.com/nirholas/lyra-web3-playground/blob/main/docs/openrouter.md"
+tags:
+  - coding
+  - creative
+open_source: "https://github.com/nirholas/lyra-web3-playground"
+date_added: "2026-01-28"

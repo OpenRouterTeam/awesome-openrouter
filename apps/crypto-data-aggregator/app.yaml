@@ -1,0 +1,8 @@
+name: "Crypto Data Aggregator"
+description: "Real-time cryptocurrency market data aggregator. Track 10,000+ coins, monitor 200+ DeFi protocols, manage portfolios, price alerts, market sentiment analysis."
+url: "https://github.com/nirholas/crypto-data-aggregator"
+docs: "https://github.com/nirholas/crypto-data-aggregator/blob/main/docs/openrouter.md"
+tags:
+  - research
+open_source: "https://github.com/nirholas/crypto-data-aggregator"
+date_added: "2026-01-28"

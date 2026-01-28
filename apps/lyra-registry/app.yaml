@@ -1,0 +1,9 @@
+name: "Lyra Registry"
+description: "MCP service cataloging 800+ crypto, DeFi, NFT, and trading tools. Discovery, scoring, and metadata for AI agent tool integration."
+url: "https://github.com/nirholas/lyra-registry"
+docs: "https://github.com/nirholas/lyra-registry/blob/main/docs/openrouter.md"
+tags:
+  - coding
+  - research
+open_source: "https://github.com/nirholas/lyra-registry"
+date_added: "2026-01-28"
