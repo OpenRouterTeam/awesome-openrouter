@@ -1,0 +1,7 @@
+name: "GitBug"
+description: "AI-powered code review for GitHub PRs. Bring your own OpenRouter key to get automated reviews with 100+ models."
+url: "https://gitbug.ai"
+docs: "https://gitbug.ai/docs"
+tags:
+  - coding
+date_added: "2026-01-28"
