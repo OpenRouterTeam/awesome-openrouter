@@ -1,0 +1,8 @@
+name: "MCP Notify"
+description: "Monitor MCP Registry for new servers. Real-time notifications via Discord, Slack, Telegram, Email, Teams, Webhooks. CLI, Go SDK, REST API, MCP server."
+url: "https://github.com/nirholas/mcp-notify"
+docs: "https://github.com/nirholas/mcp-notify/blob/main/docs/openrouter.md"
+tags:
+  - productivity
+open_source: "https://github.com/nirholas/mcp-notify"
+date_added: "2026-01-28"

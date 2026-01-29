@@ -1,0 +1,8 @@
+name: "GitHub to MCP"
+description: "Convert GitHub repos to MCP servers automatically. Extract tools from OpenAPI, GraphQL & REST APIs. AI-powered TypeScript/Python code generation. Zero config."
+url: "https://github.com/nirholas/github-to-mcp"
+docs: "https://github.com/nirholas/github-to-mcp/blob/main/docs/openrouter.md"
+tags:
+  - coding
+open_source: "https://github.com/nirholas/github-to-mcp"
+date_added: "2026-01-28"
