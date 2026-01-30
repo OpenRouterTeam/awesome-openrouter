@@ -1,0 +1,9 @@
+name: "Binance MCP"
+description: "MCP server for Binance.com API. Spot trading, wallets, staking, earn, convert, mining, algo trading, NFTs, pay, copy trading. TypeScript/Node.js."
+url: "https://github.com/nirholas/Binance-MCP"
+docs: "https://github.com/nirholas/binance-mcp/blob/main/docs/openrouter.md"
+tags:
+  - coding
+  - productivity
+open_source: "https://github.com/nirholas/Binance-MCP"
+date_added: "2026-01-28"

@@ -1,0 +1,9 @@
+name: "Lyra Tool Discovery"
+description: "AI-powered toolkit that discovers MCP servers automatically. Point at GitHub/npm, let GPT or Claude analyze APIs, get ready-to-ship plugin configs. Zero manual work."
+url: "https://github.com/nirholas/lyra-tool-discovery"
+docs: "https://github.com/nirholas/lyra-tool-discovery/blob/main/docs/openrouter.md"
+tags:
+  - coding
+  - research
+open_source: "https://github.com/nirholas/lyra-tool-discovery"
+date_added: "2026-01-28"
