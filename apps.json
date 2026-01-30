@@ -1,5 +1,19 @@
 [
   {
+    "slug": "agent-zero",
+    "name": "Agent Zero",
+    "description": "Build autonomous AI agents effortlessly.",
+    "url": "https://www.agent-zero.ai/",
+    "docs": "https://www.agent-zero.ai/p/docs/get-started/#configuration",
+    "tags": [
+      "chat",
+      "research",
+      "productivity"
+    ],
+    "openSource": "https://github.com/agent0ai/agent-zero",
+    "dateAdded": "2026-01-28"
+  },
+  {
     "slug": "aiassistworks",
     "name": "AiAssistWorks",
     "description": "AI for Google Sheets™, Slides™ & Docs™. Fill, clean, and categorize 100k+ rows with simple text commands—no complex formulas needed. Create charts, pivot tables, and write content using 100+ AI models.",

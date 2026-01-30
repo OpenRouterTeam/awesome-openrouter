@@ -24,6 +24,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 
 ## Table of Contents
 
+- [Agent Zero](#agent-zero)
 - [AiAssistWorks](#aiassistworks)
 - [Aider](#aider)
 - [analystOS](#analystos)
@@ -51,6 +52,18 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Warden](#warden)
 
 ## Apps
+
+### [Agent Zero](https://www.agent-zero.ai/)
+
+<img src="./apps/agent-zero/logo.png" alt="Agent Zero logo" width="64" height="64">
+
+Build autonomous AI agents effortlessly.
+
+`chat` `research` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/agent0ai/agent-zero)
+
+[Documentation](https://www.agent-zero.ai/p/docs/get-started/#configuration)
+
+---
 
 ### [AiAssistWorks](https://www.aiassistworks.com/)
 
