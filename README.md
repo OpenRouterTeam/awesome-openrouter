@@ -38,9 +38,9 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Kilo Code](#kilo-code)
 - [LibreChat](#librechat)
 - [Mastra](#mastra)
-- [Moltbot](#moltbot)
 - [nanocode](#nanocode)
 - [Novelcrafter](#novelcrafter)
+- [OpenClaw (Moltbot)](#openclaw-moltbot)
 - [Ottex](#ottex)
 - [PostQode](#postqode)
 - [Quests](#quests)
@@ -221,18 +221,6 @@ An open-source TypeScript framework for building AI-powered applications and age
 
 ---
 
-### [Moltbot](https://clawd.bot/)
-
-<img src="./apps/moltbot/logo.png" alt="Moltbot logo" width="64" height="64">
-
-A personal AI assistant you run on your own devices. Connects to WhatsApp, Telegram, Discord, Slack, and 50+ other services with persistent memory and extensible capabilities.
-
-`productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/moltbot/moltbot)
-
-[Documentation](https://docs.molt.bot/providers/openrouter)
-
----
-
 ### [nanocode](https://github.com/1rgs/nanocode)
 
 <img src="./apps/nanocode/logo.png" alt="nanocode logo" width="64" height="64">
@@ -254,6 +242,18 @@ Your all-in-one writing workspace that blends a powerful world-building wiki cal
 `chat` `creative` `productivity`
 
 [Documentation](https://www.novelcrafter.com/help/docs/ai-connections/openrouter)
+
+---
+
+### [OpenClaw (Moltbot)](https://openclaw.ai/)
+
+<img src="./apps/moltbot/logo.png" alt="OpenClaw (Moltbot) logo" width="64" height="64">
+
+A personal AI assistant you run on your own devices. Connects to WhatsApp, Telegram, Discord, Slack, and 50+ other services with persistent memory and extensible capabilities.
+
+`productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/openclaw/openclaw)
+
+[Documentation](https://docs.openclaw.ai/providers/openrouter)
 
 ---
 

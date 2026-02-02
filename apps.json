@@ -178,14 +178,14 @@
   },
   {
     "slug": "moltbot",
-    "name": "Moltbot",
+    "name": "OpenClaw (Moltbot)",
     "description": "A personal AI assistant you run on your own devices. Connects to WhatsApp, Telegram, Discord, Slack, and 50+ other services with persistent memory and extensible capabilities.",
-    "url": "https://clawd.bot/",
-    "docs": "https://docs.molt.bot/providers/openrouter",
+    "url": "https://openclaw.ai/",
+    "docs": "https://docs.openclaw.ai/providers/openrouter",
     "tags": [
       "productivity"
     ],
-    "openSource": "https://github.com/moltbot/moltbot",
+    "openSource": "https://github.com/openclaw/openclaw",
     "dateAdded": "2026-01-27"
   },
   {
