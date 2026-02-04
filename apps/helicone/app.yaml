@@ -1,0 +1,9 @@
+name: "Helicone"
+description: "Observability and Evaluation. Bring your OpenRouter key to supercharge your inference."
+url: "https://www.helicone.ai"
+docs: "https://docs.helicone.ai/getting-started/integration-method/openrouter#openrouter-integration"
+tags:
+  - productivity
+  - research
+openSource: "https://github.com/Helicone/helicone"
+dateAdded: "2026-02-04"

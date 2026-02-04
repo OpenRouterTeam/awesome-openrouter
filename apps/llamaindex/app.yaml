@@ -1,0 +1,9 @@
+name: "LlamaIndex"
+description: "Framework for building knowledge assistants using LLMs connected to your enterprise data."
+url: "https://www.llamaindex.ai"
+docs: "https://docs.llamaindex.ai/en/stable/api_reference/llms/openrouter/"
+tags:
+  - coding
+  - research
+openSource: "https://github.com/run-llama/llama_index"
+dateAdded: "2026-02-04"

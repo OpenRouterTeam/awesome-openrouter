@@ -1,0 +1,8 @@
+name: "Cline"
+description: "Autonomous coding agent right in your IDE."
+url: "https://cline.bot"
+docs: "https://github.com/cline/cline?tab=readme-ov-file#use-any-api-and-model"
+tags:
+  - coding
+openSource: "https://github.com/cline/cline"
+dateAdded: "2026-02-04"

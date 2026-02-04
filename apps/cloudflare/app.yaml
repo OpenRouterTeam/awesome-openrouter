@@ -1,0 +1,8 @@
+name: "Cloudflare AI Gateway"
+description: "Monitor, control, and optimize your AI applications."
+url: "https://developers.cloudflare.com/ai-gateway/"
+docs: "https://developers.cloudflare.com/ai-gateway/providers/openrouter/"
+tags:
+  - productivity
+  - research
+dateAdded: "2026-02-04"
