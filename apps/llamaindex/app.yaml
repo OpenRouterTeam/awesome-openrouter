@@ -5,5 +5,5 @@ docs: "https://docs.llamaindex.ai/en/stable/api_reference/llms/openrouter/"
 tags:
   - coding
   - research
-openSource: "https://github.com/run-llama/llama_index"
-dateAdded: "2026-02-04"
+open_source: "https://github.com/run-llama/llama_index"
+date_added: "2026-02-04"

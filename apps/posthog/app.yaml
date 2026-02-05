@@ -4,5 +4,5 @@ url: "https://posthog.com"
 docs: "https://posthog.com/tutorials/openrouter-observability"
 tags:
   - productivity
-openSource: "https://github.com/PostHog/posthog"
-dateAdded: "2026-02-04"
+open_source: "https://github.com/PostHog/posthog"
+date_added: "2026-02-04"
