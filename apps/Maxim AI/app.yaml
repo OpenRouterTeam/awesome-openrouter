@@ -1,0 +1,10 @@
+name: "Maxim AI"
+description: "Maxim is an agent simulation, evaluation, and observability platform that empowers modern AI teams to deploy agents with quality, reliability, and speed."
+url: "https://www.getmaxim.ai/"
+docs: "https://www.getmaxim.ai/docs/settings/model-configuration#model-configuration"  # Link to OpenRouter setup instructions
+tags:
+  - coding
+  - productivity
+  - research
+
+date_added: "2026-02-05"  # Use today's date in YYYY-MM-DD format
