@@ -129,6 +129,20 @@
     "dateAdded": "2025-01-13"
   },
   {
+    "slug": "dexto",
+    "name": "Dexto",
+    "description": "Open agent harness for AI apps with a production-ready coding agent, CLI, and Web UI.",
+    "url": "https://dexto.ai",
+    "docs": "https://docs.dexto.ai/docs/guides/configuring-dexto/llm#gateway-providers",
+    "tags": [
+      "coding",
+      "productivity",
+      "research"
+    ],
+    "openSource": "https://github.com/truffle-ai/dexto",
+    "dateAdded": "2026-02-06"
+  },
+  {
     "slug": "github-copilot",
     "name": "GitHub Copilot",
     "description": "Bring your own OpenRouter key to VS Code and GitHub Copilot to use Agent mode with any model.",
