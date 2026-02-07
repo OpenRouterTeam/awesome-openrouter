@@ -1,0 +1,9 @@
+name: "Hivecrew"
+description: "A macOS app that runs parallel AI computer use agents in isolated local VMs. Dispatch tasks, watch agents work in real time, and step in to guide them."
+url: "https://github.com/johnbean393/Hivecrew"
+docs: "https://github.com/johnbean393/Hivecrew#llm-providers"
+tags:
+  - productivity
+  - coding
+open_source: "https://github.com/johnbean393/Hivecrew"
+date_added: "2026-02-07"
