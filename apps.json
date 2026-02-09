@@ -291,6 +291,19 @@
     "dateAdded": "2026-01-14"
   },
   {
+    "slug": "nikke-db-story-gen",
+    "name": "Nikke-DB Story/Roleplaying Generator",
+    "description": "Interactive roleplay and story generation tool in the Goddess of Victory: NIKKE universe. Features synced Live2D animations and context-aware emotional expressions of the characters.",
+    "url": "https://nikke-db.pages.dev/story-gen",
+    "docs": "https://nikke-db.pages.dev/story-gen",
+    "tags": [
+      "chat",
+      "creative"
+    ],
+    "openSource": "https://github.com/Nikke-db/nikke-db-vue",
+    "dateAdded": "2026-01-28"
+  },
+  {
     "slug": "novelcrafter",
     "name": "Novelcrafter",
     "description": "Your all-in-one writing workspace that blends a powerful world-building wiki called Codex with flexible, model-agnostic AI assistance to help authors plan, draft, and finish their novels with complete creative control.",

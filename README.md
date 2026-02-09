@@ -46,6 +46,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Mastra](#mastra)
 - [Maxim AI](#maxim-ai)
 - [nanocode](#nanocode)
+- [Nikke-DB Story/Roleplaying Generator](#nikke-db-storyroleplaying-generator)
 - [Novelcrafter](#novelcrafter)
 - [OpenClaw (Moltbot)](#openclaw-moltbot)
 - [Ottex](#ottex)
@@ -322,6 +323,18 @@ Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lin
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/1rgs/nanocode)
 
 [Documentation](https://github.com/1rgs/nanocode#openrouter)
+
+---
+
+### [Nikke-DB Story/Roleplaying Generator](https://nikke-db.pages.dev/story-gen)
+
+<img src="./apps/nikke-db-story-gen/logo.png" alt="Nikke-DB Story/Roleplaying Generator logo" width="64" height="64">
+
+Interactive roleplay and story generation tool in the Goddess of Victory: NIKKE universe. Features synced Live2D animations and context-aware emotional expressions of the characters.
+
+`chat` `creative` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/Nikke-db/nikke-db-vue)
+
+[Documentation](https://nikke-db.pages.dev/story-gen)
 
 ---
 
