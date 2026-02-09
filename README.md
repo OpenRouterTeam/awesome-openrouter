@@ -44,6 +44,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [LibreChat](#librechat)
 - [LlamaIndex](#llamaindex)
 - [Mastra](#mastra)
+- [Maxim AI](#maxim-ai)
 - [nanocode](#nanocode)
 - [Novelcrafter](#novelcrafter)
 - [OpenClaw (Moltbot)](#openclaw-moltbot)
@@ -297,6 +298,18 @@ An open-source TypeScript framework for building AI-powered applications and age
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/mastra-ai/mastra)
 
 [Documentation](https://mastra.ai/docs/frameworks/agentic-uis/openrouter)
+
+---
+
+### [Maxim AI](https://www.getmaxim.ai/)
+
+<img src="./apps/Maxim AI/logo.png" alt="Maxim AI logo" width="64" height="64">
+
+Maxim is an agent simulation, evaluation, and observability platform that empowers modern AI teams to deploy agents with quality, reliability, and speed.
+
+`coding` `productivity` `research`
+
+[Documentation](https://www.getmaxim.ai/docs/settings/model-configuration#model-configuration)
 
 ---
 
