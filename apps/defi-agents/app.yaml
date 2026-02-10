@@ -1,0 +1,8 @@
+name: "DeFi Agents"
+description: "Production-ready DeFi agent definitions with JSON API and MCP server. Web3 trading, portfolio management, blockchain automation for AI agents."
+url: "https://github.com/nirholas/defi-agents"
+docs: "https://github.com/nirholas/defi-agents/blob/main/docs/openrouter.md"
+tags:
+  - coding
+open_source: "https://github.com/nirholas/defi-agents"
+date_added: "2026-01-28"

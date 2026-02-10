@@ -1,0 +1,8 @@
+name: "Plugin Delivery"
+description: "AI plugin marketplace with SDK, gateway & developer tools. Build function-calling plugins for cryptocurrency, DeFi, crypto trading. OpenAPI compatible."
+url: "https://github.com/nirholas/plugin.delivery"
+docs: "https://github.com/nirholas/plugin-delivery/blob/main/docs/openrouter.md"
+tags:
+  - coding
+open_source: "https://github.com/nirholas/plugin.delivery"
+date_added: "2026-01-28"

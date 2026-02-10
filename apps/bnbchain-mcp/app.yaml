@@ -1,0 +1,8 @@
+name: "BNB Chain MCP"
+description: "Comprehensive MCP server for BNB Chain and EVM blockchains. 200+ tools for DeFi, DEX swaps, security analysis, staking on BSC and opBNB."
+url: "https://github.com/nirholas/bnbchain-mcp"
+docs: "https://github.com/nirholas/bnbchain-mcp/blob/main/docs/openrouter.md"
+tags:
+  - coding
+open_source: "https://github.com/nirholas/bnbchain-mcp"
+date_added: "2026-01-28"

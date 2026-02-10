@@ -1,0 +1,9 @@
+name: "Extract LLMs Docs"
+description: "Extract documentation for AI agents from any site with llms.txt support. MCP server, REST API, batch processing, multiple export formats."
+url: "https://github.com/nirholas/extract-llms-docs"
+docs: "https://github.com/nirholas/extract-llms-docs/blob/main/docs/openrouter.md"
+tags:
+  - coding
+  - research
+open_source: "https://github.com/nirholas/extract-llms-docs"
+date_added: "2026-01-28"
