@@ -36,6 +36,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Chorus](#chorus)
 - [Cline](#cline)
 - [Cloudflare AI Gateway](#cloudflare-ai-gateway)
+- [Dexto](#dexto)
 - [fal](#fal)
 - [GitBug](#gitbug)
 - [GitHub Copilot](#github-copilot)
@@ -203,6 +204,18 @@ Monitor, control, and optimize your AI applications.
 `productivity` `research`
 
 [Documentation](https://developers.cloudflare.com/ai-gateway/providers/openrouter/)
+
+---
+
+### [Dexto](https://dexto.ai)
+
+<img src="./apps/dexto/logo.png" alt="Dexto logo" width="64" height="64">
+
+Open agent harness for AI apps with a production-ready coding agent, CLI, and Web UI.
+
+`coding` `productivity` `research` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/truffle-ai/dexto)
+
+[Documentation](https://docs.dexto.ai/docs/guides/configuring-dexto/llm#gateway-providers)
 
 ---
 
