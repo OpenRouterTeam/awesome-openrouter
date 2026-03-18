@@ -1,0 +1,10 @@
+name: "Dexto"
+description: "Open agent harness for AI apps with a production-ready coding agent, CLI, and Web UI."
+url: "https://dexto.ai"
+docs: "https://docs.dexto.ai/docs/guides/configuring-dexto/llm#gateway-providers"
+tags:
+  - coding
+  - productivity
+  - research
+open_source: "https://github.com/truffle-ai/dexto"
+date_added: "2026-02-06"
