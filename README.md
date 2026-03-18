@@ -69,7 +69,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 
 Build autonomous AI agents effortlessly.
 
-`chat` `research` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/agent0ai/agent-zero)
+`productivity` `chat` `research` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/agent0ai/agent-zero)
 
 [Documentation](https://www.agent-zero.ai/p/docs/get-started/#configuration)
 

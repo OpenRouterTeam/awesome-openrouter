@@ -20,9 +20,9 @@
     "url": "https://www.agent-zero.ai/",
     "docs": "https://www.agent-zero.ai/p/docs/get-started/#configuration",
     "tags": [
+      "productivity",
       "chat",
-      "research",
-      "productivity"
+      "research"
     ],
     "openSource": "https://github.com/agent0ai/agent-zero",
     "dateAdded": "2026-01-28"
