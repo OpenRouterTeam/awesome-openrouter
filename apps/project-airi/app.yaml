@@ -1,0 +1,8 @@
+name: "Project AIRI"
+description: "An open‑source virtual companion inspired by Neuro-sama that can chat, listen, speak, and play games"
+url: "https://airi.moeru.ai/"
+docs: "https://airi.moeru.ai/docs/en/"
+tags:
+  - chat
+open_source: "https://github.com/moeru-ai/airi"
+date_added: "2026-03-19"
