@@ -1,0 +1,8 @@
+name: "Darce"
+description: "Open-source desktop AI coding agent with a built-in teaching mode. Builds software and explains every decision — three modes: Ship, Understand, Learn. Tauri + Svelte + Monaco."
+url: "https://darce.dev"
+docs: "https://github.com/AmerSarhan/darce#quick-start"
+tags:
+  - coding
+open_source: "https://github.com/AmerSarhan/darce"
+date_added: "2026-03-22"
