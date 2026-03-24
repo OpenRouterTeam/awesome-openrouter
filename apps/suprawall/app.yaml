@@ -1,0 +1,8 @@
+name: "SupraWall"
+description: "The deterministic security layer for OpenRouter agents. Intercept tool calls, cap budgets, and block prompt injections."
+url: "https://suprawall.ai"
+docs: "https://www.supra-wall.com/integrations/openrouter"
+tags:
+  - other
+open_source: "https://github.com/wiserautomation/SupraWall"
+date_added: "2026-03-24"
