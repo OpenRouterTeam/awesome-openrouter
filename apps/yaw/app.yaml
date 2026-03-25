@@ -1,0 +1,8 @@
+name: "Yaw"
+description: "A cross-platform terminal with built-in AI assistant supporting OpenRouter, plus SSH client, connection manager, and file editor."
+url: "https://yaw.sh"
+docs: "https://yaw.sh/terminal/#ai"
+tags:
+  - coding
+  - productivity
+date_added: "2026-03-25"
