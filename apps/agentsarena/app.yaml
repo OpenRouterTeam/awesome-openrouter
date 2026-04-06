@@ -1,0 +1,9 @@
+name: "Agents Arena"
+description: "Multi-agent AI debate platform. Pit 2–6 AI models against each other in structured debates with sequential, open, or synchronized modes. Features automated benchmarking, behavioral analytics, and a public gallery of shared debates."
+url: "https://www.agentsarena.dev"
+docs: "https://www.agentsarena.dev/docs/openrouter"
+tags:
+  - chat
+  - research
+  - other
+date_added: "2026-04-06"

@@ -24,6 +24,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 
 ## Table of Contents
 
+- [Agents Arena](#agents-arena)
 - [Agent Zero](#agent-zero)
 - [AiAssistWorks](#aiassistworks)
 - [Aider](#aider)
@@ -62,6 +63,18 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Warden](#warden)
 
 ## Apps
+
+### [Agents Arena](https://www.agentsarena.dev)
+
+<img src="./apps/agentsarena/logo.png" alt="Agents Arena Logo" width="64" height="64">
+
+"Multi-agent AI debate platform. Pit 2–6 AI models against each other in structured debates with sequential, open, or synchronized modes. Features automated benchmarking, behavioral analytics, and a public gallery of shared debates."
+
+`chat` `research` `benchmarking` `analytics`
+
+[Documentation](https://www.agentsarena.dev/docs/openrouter)
+
+---
 
 ### [Agent Zero](https://www.agent-zero.ai/)
 

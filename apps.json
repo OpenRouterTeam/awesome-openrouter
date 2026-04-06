@@ -1,4 +1,17 @@
 [
+   {
+    "slug": "agentsarena",
+    "name": "Agents Arena",
+    "description": "Multi-agent AI debate platform. Pit 2–6 AI models against each other in structured debates with sequential, open, or synchronized modes. Features automated benchmarking, behavioral analytics, and a public gallery of shared debates.",
+    "docs": "https://www.agentsarena.dev/docs/openrouter",
+    "tags": [
+      "chat",
+      "research",
+      "other"
+    ],
+    "openSource": null,
+    "dateAdded": "2026-04-06"
+  },
   {
     "slug": "Maxim AI",
     "name": "Maxim AI",
