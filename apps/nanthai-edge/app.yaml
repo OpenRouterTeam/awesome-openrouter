@@ -1,0 +1,9 @@
+name: "NanthAi:Edge"
+description: "AI chat app for iOS, Android, and web. Pick from 300+ models via OpenRouter with BYOK, multi-model conversations, personas, autonomous agents, web search, memory, and scheduled jobs."
+url: "https://nanthai.tech"
+docs: "https://nanthai.tech"
+tags:
+  - chat
+  - productivity
+  - research
+date_added: "2026-04-07"
