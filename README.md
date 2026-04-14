@@ -88,6 +88,7 @@ AI for Google Sheets™, Slides™ & Docs™. Fill, clean, and categorize 100k+ 
 ---
 
 ### [Aider](https://aider.chat)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 <img src="./apps/aider/logo.png" alt="Aider logo" width="64" height="64">
 
