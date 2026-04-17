@@ -1,0 +1,9 @@
+name: "Space Agent"
+description: "Free and open-source AI agent that builds your space right in the browser."
+url: "https://space-agent.ai/"
+docs: "https://github.com/agent0ai/space-agent/blob/main/app/L0/_all/mod/_core/documentation/docs/agent/onscreen-agent-runtime.md"
+tags:
+  - productivity
+  - chat
+open_source: "https://github.com/agent0ai/space-agent"
+date_added: "2026-04-17"
