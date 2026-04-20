@@ -1,0 +1,8 @@
+name: "openrouter-rs"
+description: "Community-maintained Rust SDK and companion CLI for OpenRouter, with typed clients for chat, responses, messages, models, embeddings, streaming, and management workflows."
+url: "https://github.com/realmorrisliu/openrouter-rs"
+docs: "https://github.com/realmorrisliu/openrouter-rs/blob/main/docs/community/awesome-openrouter/README.md"
+tags:
+  - coding
+open_source: "https://github.com/realmorrisliu/openrouter-rs"
+date_added: "2026-04-20"
