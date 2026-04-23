@@ -1,0 +1,9 @@
+name: "Octomind"
+description: "Open-source AI agent runtime in Rust. Run plug-and-play specialist agents with MCP tools, multimodal sessions, and adaptive context compression for infinite sessions."
+url: "https://octomind.run"
+docs: "https://octomind.run/docs"
+tags:
+  - coding
+  - productivity
+open_source: "https://github.com/muvon/octomind"
+date_added: "2026-04-23"
