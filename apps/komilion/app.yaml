@@ -1,0 +1,7 @@
+name: "Komilion"
+description: "AI model router that automatically routes each API request to the cheapest capable model from 400+ OpenRouter models. OpenAI SDK compatible — one base_url change. Three tiers: Frugal (~$0.006/req for simple tasks), Balanced (~$0.10/req), Premium council (~$0.55/req, multi-model peer review)."
+url: "https://komilion.com"
+docs: "https://komilion.com/docs"
+tags:
+  - other
+date_added: "2026-02-24"
