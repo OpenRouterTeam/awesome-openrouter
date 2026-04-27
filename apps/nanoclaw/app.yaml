@@ -1,0 +1,9 @@
+name: "NanoClaw"
+description: "A lightweight alternative to OpenClaw that runs agents in isolated containers and supports channels like WhatsApp, Telegram, Slack, Discord, and Gmail."
+url: "https://nanoclaw.dev"
+docs: "https://github.com/qwibitai/nanoclaw#readme"
+tags:
+  - chat
+  - productivity
+open_source: "https://github.com/qwibitai/nanoclaw"
+date_added: "2026-04-06"
