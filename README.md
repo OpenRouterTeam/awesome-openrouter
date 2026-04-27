@@ -53,6 +53,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Ottex](#ottex)
 - [PostHog](#posthog)
 - [PostQode](#postqode)
+- [Project AIRI](#project-airi)
 - [Quests](#quests)
 - [Roo Code](#roo-code)
 - [Shakespeare](#shakespeare)
@@ -408,6 +409,18 @@ AI-powered SDLC platform with specialized agents for API, Web, and Mobile testin
 `productivity`
 
 [Documentation](https://docs.postqode.ai/settings/model-configuration)
+
+---
+
+### [Project AIRI](https://airi.moeru.ai/)
+
+<img src="./apps/project-airi/logo.png" alt="Project AIRI logo" width="64" height="64">
+
+An open‑source virtual companion inspired by Neuro-sama that can chat, listen, speak, and play games
+
+`chat` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/moeru-ai/airi)
+
+[Documentation](https://airi.moeru.ai/docs/en/)
 
 ---
 

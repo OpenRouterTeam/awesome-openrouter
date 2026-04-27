@@ -368,6 +368,18 @@
     "dateAdded": "2026-01-21"
   },
   {
+    "slug": "project-airi",
+    "name": "Project AIRI",
+    "description": "An open‑source virtual companion inspired by Neuro-sama that can chat, listen, speak, and play games",
+    "url": "https://airi.moeru.ai/",
+    "docs": "https://airi.moeru.ai/docs/en/",
+    "tags": [
+      "chat"
+    ],
+    "openSource": "https://github.com/moeru-ai/airi",
+    "dateAdded": "2026-03-19"
+  },
+  {
     "slug": "quests",
     "name": "Quests",
     "description": "The open-source app builder.",
