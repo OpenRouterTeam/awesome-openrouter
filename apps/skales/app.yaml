@@ -1,0 +1,10 @@
+name: "Skales"
+description: "Local AI desktop agent for Windows, macOS & Linux. 15+ providers, Desktop Buddy, Discover Feed, Custom Skills, Browser Agent. No Docker, no terminal."
+url: "https://skales.app"
+docs: "https://docs.skales.app"
+tags:
+  - chat
+  - productivity
+  - coding
+open_source: "https://github.com/skalesapp/skales"
+date_added: "2026-03-26"
