@@ -58,6 +58,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Roo Code](#roo-code)
 - [Shakespeare](#shakespeare)
 - [SillyTavern](#sillytavern)
+- [Skales](#skales)
 - [Stirrup](#stirrup)
 - [VT Code](#vt-code)
 - [Warden](#warden)
@@ -469,6 +470,18 @@ A local-first LLM frontend for power users, supporting chat, character cards, an
 `chat` `creative` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/SillyTavern/SillyTavern)
 
 [Documentation](https://docs.sillytavern.app/usage/api-connections/openrouter/)
+
+---
+
+### [Skales](https://skales.app)
+
+<img src="./apps/skales/logo.png" alt="Skales logo" width="64" height="64">
+
+Local AI desktop agent for Windows, macOS & Linux. 15+ providers, Desktop Buddy, Discover Feed, Custom Skills, Browser Agent. No Docker, no terminal.
+
+`chat` `productivity` `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/skalesapp/skales)
+
+[Documentation](https://docs.skales.app)
 
 ---
 

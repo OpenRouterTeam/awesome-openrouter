@@ -432,6 +432,20 @@
     "dateAdded": "2025-01-08"
   },
   {
+    "slug": "skales",
+    "name": "Skales",
+    "description": "Local AI desktop agent for Windows, macOS & Linux. 15+ providers, Desktop Buddy, Discover Feed, Custom Skills, Browser Agent. No Docker, no terminal.",
+    "url": "https://skales.app",
+    "docs": "https://docs.skales.app",
+    "tags": [
+      "chat",
+      "productivity",
+      "coding"
+    ],
+    "openSource": "https://github.com/skalesapp/skales",
+    "dateAdded": "2026-03-26"
+  },
+  {
     "slug": "stirrup",
     "name": "Stirrup",
     "description": "A lightweight framework for building agents. Bring your own OpenRouter key and use `ChatCompletionsClient` to build your own agents with any model.",
