@@ -58,6 +58,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Shakespeare](#shakespeare)
 - [SillyTavern](#sillytavern)
 - [Skales](#skales)
+- [Space Agent](#space-agent)
 - [Stirrup](#stirrup)
 - [VT Code](#vt-code)
 - [Warden](#warden)
@@ -469,6 +470,18 @@ Local AI desktop agent for Windows, macOS & Linux. 15+ providers, Desktop Buddy,
 `chat` `productivity` `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/skalesapp/skales)
 
 [Documentation](https://docs.skales.app)
+
+---
+
+### [Space Agent](https://space-agent.ai/)
+
+<img src="./apps/space-agent/logo.png" alt="Space Agent logo" width="64" height="64">
+
+Free and open-source AI agent that builds your space right in the browser.
+
+`productivity` `chat` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/agent0ai/space-agent)
+
+[Documentation](https://github.com/agent0ai/space-agent/blob/main/app/L0/_all/mod/_core/documentation/docs/agent/onscreen-agent-runtime.md)
 
 ---
 

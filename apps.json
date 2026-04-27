@@ -433,6 +433,19 @@
     "dateAdded": "2026-03-26"
   },
   {
+    "slug": "space-agent",
+    "name": "Space Agent",
+    "description": "Free and open-source AI agent that builds your space right in the browser.",
+    "url": "https://space-agent.ai/",
+    "docs": "https://github.com/agent0ai/space-agent/blob/main/app/L0/_all/mod/_core/documentation/docs/agent/onscreen-agent-runtime.md",
+    "tags": [
+      "productivity",
+      "chat"
+    ],
+    "openSource": "https://github.com/agent0ai/space-agent",
+    "dateAdded": "2026-04-17"
+  },
+  {
     "slug": "stirrup",
     "name": "Stirrup",
     "description": "A lightweight framework for building agents. Bring your own OpenRouter key and use `ChatCompletionsClient` to build your own agents with any model.",
