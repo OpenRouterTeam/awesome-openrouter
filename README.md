@@ -45,6 +45,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [LlamaIndex](#llamaindex)
 - [Mastra](#mastra)
 - [Maxim AI](#maxim-ai)
+- [NanoClaw](#nanoclaw)
 - [nanocode](#nanocode)
 - [Nikke-DB Story/Roleplaying Generator](#nikke-db-storyroleplaying-generator)
 - [Novelcrafter](#novelcrafter)
@@ -315,6 +316,18 @@ Maxim is an agent simulation, evaluation, and observability platform that empowe
 `coding` `productivity` `research`
 
 [Documentation](https://www.getmaxim.ai/docs/settings/model-configuration#model-configuration)
+
+---
+
+### [NanoClaw](https://nanoclaw.dev)
+
+<img src="./apps/nanoclaw/logo.png" alt="NanoClaw logo" width="64" height="64">
+
+A lightweight alternative to OpenClaw that runs agents in isolated containers and supports channels like WhatsApp, Telegram, Slack, Discord, and Gmail.
+
+`chat` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/qwibitai/nanoclaw)
+
+[Documentation](https://github.com/qwibitai/nanoclaw#readme)
 
 ---
 
