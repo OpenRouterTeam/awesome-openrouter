@@ -37,7 +37,6 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Cline](#cline)
 - [Cloudflare AI Gateway](#cloudflare-ai-gateway)
 - [Dexto](#dexto)
-- [fal](#fal)
 - [GitBug](#gitbug)
 - [GitHub Copilot](#github-copilot)
 - [Helicone](#helicone)
@@ -218,18 +217,6 @@ Open agent harness for AI apps with a production-ready coding agent, CLI, and We
 `coding` `productivity` `research` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/truffle-ai/dexto)
 
 [Documentation](https://docs.dexto.ai/docs/guides/configuring-dexto/llm#gateway-providers)
-
----
-
-### [fal](https://fal.ai)
-
-<img src="./apps/fal/logo.png" alt="fal logo" width="64" height="64">
-
-Generative Media Platform.
-
-`creative` `productivity`
-
-[Documentation](https://fal.ai/models/fal-ai/any-llm)
 
 ---
 
