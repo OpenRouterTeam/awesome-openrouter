@@ -49,6 +49,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Nikke-DB Story/Roleplaying Generator](#nikke-db-storyroleplaying-generator)
 - [Novelcrafter](#novelcrafter)
 - [OpenClaw (Moltbot)](#openclaw-moltbot)
+- [openrouter-rs](#openrouter-rs)
 - [Ottex](#ottex)
 - [PostHog](#posthog)
 - [PostQode](#postqode)
@@ -362,6 +363,18 @@ A personal AI assistant you run on your own devices. Connects to WhatsApp, Teleg
 `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/openclaw/openclaw)
 
 [Documentation](https://docs.openclaw.ai/providers/openrouter)
+
+---
+
+### [openrouter-rs](https://github.com/realmorrisliu/openrouter-rs)
+
+<img src="./apps/openrouter-rs/logo.png" alt="openrouter-rs logo" width="64" height="64">
+
+Community-maintained Rust SDK and companion CLI for OpenRouter, with typed clients for chat, responses, messages, models, embeddings, streaming, and management workflows.
+
+`coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/realmorrisliu/openrouter-rs)
+
+[Documentation](https://github.com/realmorrisliu/openrouter-rs/blob/main/docs/community/awesome-openrouter/README.md)
 
 ---
 

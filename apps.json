@@ -319,6 +319,18 @@
     "dateAdded": "2025-01-13"
   },
   {
+    "slug": "openrouter-rs",
+    "name": "openrouter-rs",
+    "description": "Community-maintained Rust SDK and companion CLI for OpenRouter, with typed clients for chat, responses, messages, models, embeddings, streaming, and management workflows.",
+    "url": "https://github.com/realmorrisliu/openrouter-rs",
+    "docs": "https://github.com/realmorrisliu/openrouter-rs/blob/main/docs/community/awesome-openrouter/README.md",
+    "tags": [
+      "coding"
+    ],
+    "openSource": "https://github.com/realmorrisliu/openrouter-rs",
+    "dateAdded": "2026-04-20"
+  },
+  {
     "slug": "ottex",
     "name": "Ottex",
     "description": "WisprFlow + Raycast AI shortcuts but with OpenRouter BYOK. Dictate emails, Slack messages, Claude Code prompts and more. Auto-formats based on the app you're working with.",
