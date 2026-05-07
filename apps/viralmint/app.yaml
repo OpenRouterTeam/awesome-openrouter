@@ -1,0 +1,9 @@
+name: "ViralMint"
+description: "Open-source short-video pipeline that scouts trending content across YouTube/TikTok/Douyin, transcribes competitors locally, and generates original mp4s with AI script, voice, and word-by-word captions. AGPL-3.0; BYOK supports OpenRouter alongside Anthropic and OpenAI."
+url: "https://github.com/openclaw-easy/ViralMint"
+docs: "https://github.com/openclaw-easy/ViralMint/releases/tag/v1.1.0"
+tags:
+  - creative
+  - productivity
+open_source: "https://github.com/openclaw-easy/ViralMint"
+date_added: "2026-05-07"
