@@ -1,0 +1,9 @@
+name: "OpenClaw Easy"
+description: "One-click signed desktop installer (macOS + Windows) that pipes WhatsApp, Telegram, Slack, Discord, Feishu and Line through OpenRouter's 300+ models. Bring your own OpenRouter key, run 100% locally."
+url: "https://openclaw-easy.com"
+docs: "https://openclaw-easy.com/blog/openclaw-openrouter-setup.html"
+tags:
+  - chat
+  - productivity
+open_source: "https://github.com/openclaw-easy/openclaw-easy-desktop"
+date_added: "2026-05-11"
