@@ -1,0 +1,8 @@
+name: "SoulForge"
+description: "Graph-powered coding agent for the terminal. Edits code by symbol via AST, not find-and-replace."
+url: "https://soulforge.proxysoul.com"
+docs: "https://soulforge.proxysoul.com/providers/overview#openrouter"
+tags:
+  - coding
+open_source: "https://github.com/proxysoul/soulforge"
+date_added: "2026-05-14"
