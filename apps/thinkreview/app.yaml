@@ -1,0 +1,9 @@
+name: "ThinkReview"
+description: "Browser extension that adds AI code reviews and a PR copilot chat directly inside GitHub, GitLab, Bitbucket, and Azure DevOps. Bring your own OpenRouter API key to review with any of 300+ models. Supports Chrome & Firefox, including self-hosted platforms."
+url: "https://thinkreview.dev"
+docs: "https://github.com/Thinkode/thinkreview-browser-extension#openrouter"
+tags:
+  - coding
+  - productivity
+open_source: "https://github.com/Thinkode/thinkreview-browser-extension"
+date_added: "2026-05-15"
