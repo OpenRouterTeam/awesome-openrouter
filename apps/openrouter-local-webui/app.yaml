@@ -1,0 +1,9 @@
+name: "OpenRouter Local WebUI"
+description: "A self-hosted, multi-user AI chat web interface for OpenRouter. Chat with 300+ LLMs, generate images, and manage users — all through a clean, minimal web UI."
+url: "https://github.com/macsatcom/openrouter-local-webui"
+docs: "https://github.com/macsatcom/openrouter-local-webui#readme"
+tags:
+  - chat
+  - productivity
+open_source: "https://github.com/macsatcom/openrouter-local-webui"
+date_added: "2026-05-18"
