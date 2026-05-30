@@ -1,0 +1,9 @@
+name: "AI Model Gateway"
+description: "Self-hosted LLM operations gateway for routing OpenRouter through local telemetry, fallback, benchmarking, config publishing, updates, and rollback."
+url: "https://ssc-studio.github.io/Ai-Model-Gateway/"
+docs: "https://github.com/SSC-STUDIO/Ai-Model-Gateway/blob/main/docs/openai-compatible-upstreams.md#openrouter-example"
+tags:
+  - productivity
+  - coding
+open_source: "https://github.com/SSC-STUDIO/Ai-Model-Gateway"
+date_added: "2026-05-30"
