@@ -595,5 +595,18 @@
     ],
     "openSource": "https://github.com/SidhuK/WardenApp",
     "dateAdded": "2025-01-14"
+  },
+  {
+    "slug": "Axocoatl",
+    "name": "Axocoatl",
+    "description": "Open-source agentic runtime in Rust — run supervised AI agents on your own hardware. Self-hosted, local-first, MCP-native; OpenRouter is one of its providers.",
+    "url": "https://axocoatl.ai",
+    "docs": "https://docs.axocoatl.ai",
+    "tags": [
+      "coding",
+      "productivity"
+    ],
+    "openSource": "https://github.com/axocoatl/axocoatl",
+    "dateAdded": "2026-06-04"
   }
 ]
