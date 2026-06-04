@@ -1,0 +1,9 @@
+name: "Agent Swarm"
+description: "Coordination intelligence for AI coding agents. A lead delegates, Docker-isolated workers ship code, memory compounds across sessions. Workers run via OpenRouter — bring your own key to pick any model (default: Qwen3 Coder Flash)."
+url: "https://agent-swarm.dev"
+docs: "https://docs.agent-swarm.dev/docs/guides/harness-configuration#opencode"
+tags:
+  - coding
+  - productivity
+open_source: "https://github.com/desplega-ai/agent-swarm"
+date_added: "2026-05-09"
