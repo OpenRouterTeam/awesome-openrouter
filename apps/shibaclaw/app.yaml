@@ -1,5 +1,5 @@
 name: "ShibaClaw"
-description: "Security-first AI agent with built-in WebUI, 22 providers, MCP support, prompt-injection hardening, and OpenRouter OAuth. Install via pip or Docker."
+description: "Security-first AI agent with built-in WebUI, 22 providers, MCP support, prompt-injection hardening, and OpenRouter OAuth. One line Install."
 url: "https://github.com/RikyZ90/ShibaClaw"
 docs: "https://github.com/RikyZ90/ShibaClaw#supported-providers"
 tags:
