@@ -51,6 +51,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [nanocode](#nanocode)
 - [Nikke-DB Story/Roleplaying Generator](#nikke-db-storyroleplaying-generator)
 - [Novelcrafter](#novelcrafter)
+- [Octomind](#octomind)
 - [OpenClaw (Moltbot)](#openclaw-moltbot)
 - [OpenRouter MCP Multimodal](#openrouter-mcp-multimodal)
 - [openrouter-rs](#openrouter-rs)
@@ -393,6 +394,18 @@ Your all-in-one writing workspace that blends a powerful world-building wiki cal
 `chat` `creative` `productivity`
 
 [Documentation](https://www.novelcrafter.com/help/docs/ai-connections/openrouter)
+
+---
+
+### [Octomind](https://octomind.run)
+
+<img src="./apps/octomind/logo.png" alt="Octomind logo" width="64" height="64">
+
+Session-based AI development assistant CLI. MCP tool execution, multi-provider support via OpenRouter, roles, skills, and agent orchestration — all from the terminal.
+
+`coding` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/muvon/octomind)
+
+[Documentation](https://octomind.run/docs/providers/openrouter)
 
 ---
 

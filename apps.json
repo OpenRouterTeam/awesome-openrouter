@@ -358,6 +358,19 @@
     "dateAdded": "2025-01-13"
   },
   {
+    "slug": "octomind",
+    "name": "Octomind",
+    "description": "Session-based AI development assistant CLI. MCP tool execution, multi-provider support via OpenRouter, roles, skills, and agent orchestration — all from the terminal.",
+    "url": "https://octomind.run",
+    "docs": "https://octomind.run/docs/providers/openrouter",
+    "tags": [
+      "coding",
+      "productivity"
+    ],
+    "openSource": "https://github.com/muvon/octomind",
+    "dateAdded": "2026-05-24"
+  },
+  {
     "slug": "openrouter-mcp-multimodal",
     "name": "OpenRouter MCP Multimodal",
     "description": "All-in-one MCP server that gives Claude Desktop, Cursor, Kiro, VS Code, Windsurf, and Cline access to OpenRouter's 300+ LLMs — chat, image / audio / video analysis, and image / audio / video generation (Veo 3.1, Sora, Seedance, Wan).",
