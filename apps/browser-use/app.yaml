@@ -1,0 +1,9 @@
+name: "Browser Use"
+description: "Open-source browser agent driven via CDP. Pairs with OpenRouter as the action layer for any LLM — execute real web tasks with Claude, GPT, Gemini, or any of OR's 300+ models. 92K stars on main repo, 135K+ across the org. YC W25."
+url: "https://browser-use.com"
+docs: "https://docs.browser-use.com/open-source/supported-models#openrouter"
+tags:
+  - productivity
+  - coding
+open_source: "https://github.com/browser-use/browser-use"
+date_added: "2026-05-04"

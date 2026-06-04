@@ -1,0 +1,7 @@
+name: "Spokenly"
+description: "Dictation app for macOS, Windows, and iOS, free when you bring your own API keys. Real-time and file transcription, plus optional AI text cleanup and rewriting using your own OpenRouter key and the model you pick."
+url: "https://spokenly.app"
+docs: "https://spokenly.app/docs"
+tags:
+  - productivity
+date_added: "2026-05-31"

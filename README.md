@@ -24,6 +24,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 
 ## Table of Contents
 
+- [Agent Swarm](#agent-swarm)
 - [Agent Zero](#agent-zero)
 - [AiAssistWorks](#aiassistworks)
 - [Aider](#aider)
@@ -31,6 +32,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Autohand Code CLI](#autohand-code-cli)
 - [Aventura](#aventura)
 - [BoltAI](#boltai)
+- [Browser Use](#browser-use)
 - [Chatbox](#chatbox)
 - [ChatLima](#chatlima)
 - [Chorus](#chorus)
@@ -49,23 +51,40 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [nanocode](#nanocode)
 - [Nikke-DB Story/Roleplaying Generator](#nikke-db-storyroleplaying-generator)
 - [Novelcrafter](#novelcrafter)
+- [Octomind](#octomind)
 - [OpenClaw (Moltbot)](#openclaw-moltbot)
+- [OpenRouter MCP Multimodal](#openrouter-mcp-multimodal)
 - [openrouter-rs](#openrouter-rs)
 - [Ottex](#ottex)
 - [PostHog](#posthog)
 - [PostQode](#postqode)
 - [Project AIRI](#project-airi)
 - [Quests](#quests)
+- [Roboflow Workflows](#roboflow-workflows)
 - [Roo Code](#roo-code)
 - [Shakespeare](#shakespeare)
 - [SillyTavern](#sillytavern)
 - [Skales](#skales)
+- [SoulForge](#soulforge)
 - [Space Agent](#space-agent)
+- [Spokenly](#spokenly)
 - [Stirrup](#stirrup)
 - [VT Code](#vt-code)
 - [Warden](#warden)
 
 ## Apps
+
+### [Agent Swarm](https://agent-swarm.dev)
+
+<img src="./apps/agent-swarm/logo.png" alt="Agent Swarm logo" width="64" height="64">
+
+Coordination intelligence for AI coding agents. A lead delegates, Docker-isolated workers ship code, memory compounds across sessions. Workers run via OpenRouter — bring your own key to pick any model (default: Qwen3 Coder Flash).
+
+`coding` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/desplega-ai/agent-swarm)
+
+[Documentation](https://docs.agent-swarm.dev/docs/guides/harness-configuration#opencode)
+
+---
 
 ### [Agent Zero](https://www.agent-zero.ai/)
 
@@ -148,6 +167,18 @@ The best AI app for Mac. Instantly switch between 300+ AI models, from a single 
 `chat`
 
 [Documentation](https://help.boltai.com/articles/2327851-how-to-use-openrouter-in-boltai)
+
+---
+
+### [Browser Use](https://browser-use.com)
+
+<img src="./apps/browser-use/logo.png" alt="Browser Use logo" width="64" height="64">
+
+Open-source browser agent driven via CDP. Pairs with OpenRouter as the action layer for any LLM — execute real web tasks with Claude, GPT, Gemini, or any of OR's 300+ models. 92K stars on main repo, 135K+ across the org. YC W25.
+
+`productivity` `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/browser-use/browser-use)
+
+[Documentation](https://docs.browser-use.com/open-source/supported-models#openrouter)
 
 ---
 
@@ -367,6 +398,18 @@ Your all-in-one writing workspace that blends a powerful world-building wiki cal
 
 ---
 
+### [Octomind](https://octomind.run)
+
+<img src="./apps/octomind/logo.png" alt="Octomind logo" width="64" height="64">
+
+Session-based AI development assistant CLI. MCP tool execution, multi-provider support via OpenRouter, roles, skills, and agent orchestration — all from the terminal.
+
+`coding` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/muvon/octomind)
+
+[Documentation](https://octomind.run/docs/providers/openrouter)
+
+---
+
 ### [OpenClaw (Moltbot)](https://openclaw.ai/)
 
 <img src="./apps/moltbot/logo.png" alt="OpenClaw (Moltbot) logo" width="64" height="64">
@@ -376,6 +419,18 @@ A personal AI assistant you run on your own devices. Connects to WhatsApp, Teleg
 `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/openclaw/openclaw)
 
 [Documentation](https://docs.openclaw.ai/providers/openrouter)
+
+---
+
+### [OpenRouter MCP Multimodal](https://github.com/stabgan/openrouter-mcp-multimodal)
+
+<img src="./apps/openrouter-mcp-multimodal/logo.png" alt="OpenRouter MCP Multimodal logo" width="64" height="64">
+
+All-in-one MCP server that gives Claude Desktop, Cursor, Kiro, VS Code, Windsurf, and Cline access to OpenRouter's 300+ LLMs — chat, image / audio / video analysis, and image / audio / video generation (Veo 3.1, Sora, Seedance, Wan).
+
+`productivity` `chat` `creative` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/stabgan/openrouter-mcp-multimodal)
+
+[Documentation](https://github.com/stabgan/openrouter-mcp-multimodal#quick-start)
 
 ---
 
@@ -451,6 +506,18 @@ The open-source app builder.
 
 ---
 
+### [Roboflow Workflows](https://roboflow.com/workflows)
+
+<img src="./apps/roboflow/logo.png" alt="Roboflow Workflows logo" width="64" height="64">
+
+A visual builder for computer vision pipelines. The OpenRouter block runs any of 300+ vision-language models on your images and detection crops, so you can swap models without rewriting your pipeline.
+
+`productivity` `research` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/roboflow/inference)
+
+[Documentation](https://inference.roboflow.com/workflows/blocks/open_router/)
+
+---
+
 ### [Roo Code](https://roocode.com)
 
 <img src="./apps/roo-code/logo.png" alt="Roo Code logo" width="64" height="64">
@@ -499,6 +566,18 @@ Local AI desktop agent for Windows, macOS & Linux. 15+ providers, Desktop Buddy,
 
 ---
 
+### [SoulForge](https://soulforge.proxysoul.com)
+
+<img src="./apps/soulforge/logo.png" alt="SoulForge logo" width="64" height="64">
+
+Graph-powered coding agent for the terminal. Edits code by symbol via AST, not find-and-replace.
+
+`coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/proxysoul/soulforge)
+
+[Documentation](https://soulforge.proxysoul.com/providers/overview#openrouter)
+
+---
+
 ### [Space Agent](https://space-agent.ai/)
 
 <img src="./apps/space-agent/logo.png" alt="Space Agent logo" width="64" height="64">
@@ -508,6 +587,18 @@ Free and open-source AI agent that builds your space right in the browser.
 `productivity` `chat` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/agent0ai/space-agent)
 
 [Documentation](https://github.com/agent0ai/space-agent/blob/main/app/L0/_all/mod/_core/documentation/docs/agent/onscreen-agent-runtime.md)
+
+---
+
+### [Spokenly](https://spokenly.app)
+
+<img src="./apps/spokenly/logo.png" alt="Spokenly logo" width="64" height="64">
+
+Dictation app for macOS, Windows, and iOS, free when you bring your own API keys. Real-time and file transcription, plus optional AI text cleanup and rewriting using your own OpenRouter key and the model you pick.
+
+`productivity`
+
+[Documentation](https://spokenly.app/docs)
 
 ---
 

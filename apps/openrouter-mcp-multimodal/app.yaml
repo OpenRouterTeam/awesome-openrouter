@@ -1,0 +1,10 @@
+name: "OpenRouter MCP Multimodal"
+description: "All-in-one MCP server that gives Claude Desktop, Cursor, Kiro, VS Code, Windsurf, and Cline access to OpenRouter's 300+ LLMs — chat, image / audio / video analysis, and image / audio / video generation (Veo 3.1, Sora, Seedance, Wan)."
+url: "https://github.com/stabgan/openrouter-mcp-multimodal"
+docs: "https://github.com/stabgan/openrouter-mcp-multimodal#quick-start"
+tags:
+  - productivity
+  - chat
+  - creative
+open_source: "https://github.com/stabgan/openrouter-mcp-multimodal"
+date_added: "2026-05-04"

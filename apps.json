@@ -14,6 +14,19 @@
     "dateAdded": "2026-02-05"
   },
   {
+    "slug": "agent-swarm",
+    "name": "Agent Swarm",
+    "description": "Coordination intelligence for AI coding agents. A lead delegates, Docker-isolated workers ship code, memory compounds across sessions. Workers run via OpenRouter — bring your own key to pick any model (default: Qwen3 Coder Flash).",
+    "url": "https://agent-swarm.dev",
+    "docs": "https://docs.agent-swarm.dev/docs/guides/harness-configuration#opencode",
+    "tags": [
+      "coding",
+      "productivity"
+    ],
+    "openSource": "https://github.com/desplega-ai/agent-swarm",
+    "dateAdded": "2026-05-09"
+  },
+  {
     "slug": "agent-zero",
     "name": "Agent Zero",
     "description": "Build autonomous AI agents effortlessly.",
@@ -102,6 +115,19 @@
     ],
     "openSource": null,
     "dateAdded": "2026-01-15"
+  },
+  {
+    "slug": "browser-use",
+    "name": "Browser Use",
+    "description": "Open-source browser agent driven via CDP. Pairs with OpenRouter as the action layer for any LLM — execute real web tasks with Claude, GPT, Gemini, or any of OR's 300+ models. 92K stars on main repo, 135K+ across the org. YC W25.",
+    "url": "https://browser-use.com",
+    "docs": "https://docs.browser-use.com/open-source/supported-models#openrouter",
+    "tags": [
+      "productivity",
+      "coding"
+    ],
+    "openSource": "https://github.com/browser-use/browser-use",
+    "dateAdded": "2026-05-04"
   },
   {
     "slug": "chatbox",
@@ -332,6 +358,33 @@
     "dateAdded": "2025-01-13"
   },
   {
+    "slug": "octomind",
+    "name": "Octomind",
+    "description": "Session-based AI development assistant CLI. MCP tool execution, multi-provider support via OpenRouter, roles, skills, and agent orchestration — all from the terminal.",
+    "url": "https://octomind.run",
+    "docs": "https://octomind.run/docs/providers/openrouter",
+    "tags": [
+      "coding",
+      "productivity"
+    ],
+    "openSource": "https://github.com/muvon/octomind",
+    "dateAdded": "2026-05-24"
+  },
+  {
+    "slug": "openrouter-mcp-multimodal",
+    "name": "OpenRouter MCP Multimodal",
+    "description": "All-in-one MCP server that gives Claude Desktop, Cursor, Kiro, VS Code, Windsurf, and Cline access to OpenRouter's 300+ LLMs — chat, image / audio / video analysis, and image / audio / video generation (Veo 3.1, Sora, Seedance, Wan).",
+    "url": "https://github.com/stabgan/openrouter-mcp-multimodal",
+    "docs": "https://github.com/stabgan/openrouter-mcp-multimodal#quick-start",
+    "tags": [
+      "productivity",
+      "chat",
+      "creative"
+    ],
+    "openSource": "https://github.com/stabgan/openrouter-mcp-multimodal",
+    "dateAdded": "2026-05-04"
+  },
+  {
     "slug": "openrouter-rs",
     "name": "openrouter-rs",
     "description": "Community-maintained Rust SDK and companion CLI for OpenRouter, with typed clients for chat, responses, messages, models, embeddings, streaming, and management workflows.",
@@ -407,6 +460,19 @@
     "dateAdded": "2026-01-15"
   },
   {
+    "slug": "roboflow",
+    "name": "Roboflow Workflows",
+    "description": "A visual builder for computer vision pipelines. The OpenRouter block runs any of 300+ vision-language models on your images and detection crops, so you can swap models without rewriting your pipeline.",
+    "url": "https://roboflow.com/workflows",
+    "docs": "https://inference.roboflow.com/workflows/blocks/open_router/",
+    "tags": [
+      "productivity",
+      "research"
+    ],
+    "openSource": "https://github.com/roboflow/inference",
+    "dateAdded": "2026-05-20"
+  },
+  {
     "slug": "roo-code",
     "name": "Roo Code",
     "description": "An AI-powered autonomous coding agent that lives in your editor.",
@@ -458,6 +524,18 @@
     "dateAdded": "2026-03-26"
   },
   {
+    "slug": "soulforge",
+    "name": "SoulForge",
+    "description": "Graph-powered coding agent for the terminal. Edits code by symbol via AST, not find-and-replace.",
+    "url": "https://soulforge.proxysoul.com",
+    "docs": "https://soulforge.proxysoul.com/providers/overview#openrouter",
+    "tags": [
+      "coding"
+    ],
+    "openSource": "https://github.com/proxysoul/soulforge",
+    "dateAdded": "2026-05-14"
+  },
+  {
     "slug": "space-agent",
     "name": "Space Agent",
     "description": "Free and open-source AI agent that builds your space right in the browser.",
@@ -469,6 +547,18 @@
     ],
     "openSource": "https://github.com/agent0ai/space-agent",
     "dateAdded": "2026-04-17"
+  },
+  {
+    "slug": "spokenly",
+    "name": "Spokenly",
+    "description": "Dictation app for macOS, Windows, and iOS, free when you bring your own API keys. Real-time and file transcription, plus optional AI text cleanup and rewriting using your own OpenRouter key and the model you pick.",
+    "url": "https://spokenly.app",
+    "docs": "https://spokenly.app/docs",
+    "tags": [
+      "productivity"
+    ],
+    "openSource": null,
+    "dateAdded": "2026-05-31"
   },
   {
     "slug": "stirrup",
