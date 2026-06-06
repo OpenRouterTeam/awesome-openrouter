@@ -1,0 +1,9 @@
+name: "RouterBase"
+description: "OpenAI-compatible AI model router for GPT, Claude, Gemini, image, video, and audio models, with smart routing, fallback, unified billing, and usage analytics."
+url: "https://routerbase.com"
+docs: "https://github.com/zenlee123/routerbase/blob/main/docs/openrouter.md"
+tags:
+  - productivity
+  - coding
+open_source: "https://github.com/zenlee123/routerbase"
+date_added: "2026-06-06"
