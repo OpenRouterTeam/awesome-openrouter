@@ -638,6 +638,7 @@ A Native Swift MacOS app that that supports multiple AI providers and models usi
 
 ---
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ## Add Your App
 
 Want to add your app to this list? See [CONTRIBUTING.md](CONTRIBUTING.md) for instructions.
