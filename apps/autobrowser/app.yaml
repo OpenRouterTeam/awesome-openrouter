@@ -1,0 +1,9 @@
+name: "Autobrowser"
+description: "Auto Browser sits in your Chrome side panel. Describe a task in plain English, it sees the page, acts on your behalf, and reports back. No scripts, no servers, no vendor lock-in."
+url: "https://autobrowser.dev/"
+docs: "https://autobrowser.dev/docs/"
+tags:
+  - productivity
+  - chat
+  - research
+date_added: "2026-06-10"
