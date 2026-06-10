@@ -1,7 +1,7 @@
 name: "BuilderStudio"
 description: "Free agentic coding IDE for building app projects locally with source editing, terminal workflows, MCP-aware tools, reusable Skills, OpenRouter model access, local previews, and deployment handoff."
 url: "https://builderstudio.dev"
-docs: "https://builderstudio.dev/faq"
+docs: "https://builderstudio.dev/assets/resources/user_guide_builderstudio.pdf"
 tags:
   - coding
   - productivity
