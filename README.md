@@ -290,18 +290,6 @@ Observability and Evaluation. Bring your OpenRouter key to supercharge your infe
 
 ---
 
-### [iClaw](https://iclaw.digital)
-
-<img src="./apps/iclaw/logo.png" alt="iClaw logo" width="64" height="64">
-
-Local-first AI workspace with sandbox isolation. Run OpenClaw agent sessions with built-in container security.
-
-`productivity` `security` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/iclawapp/iclaw)
-
-[npm](https://www.npmjs.com/package/@iclawapp/iclaw)
-
----
-
 ### [Kilo Code](https://kilo.ai)
 
 <img src="./apps/kilocode/logo.png" alt="Kilo Code logo" width="64" height="64">
