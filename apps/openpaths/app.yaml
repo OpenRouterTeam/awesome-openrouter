@@ -1,0 +1,10 @@
+name: "OpenPaths"
+description: "An AI model gateway with one unified API for chat, image, video, music, speech, embedding, and transcription across 15+ providers including OpenRouter. Bring your own keys and route requests across providers from a single endpoint."
+url: "https://openpaths.io"
+docs: "https://openpaths.io/docs"
+tags:
+  - chat
+  - creative
+  - other
+open_source: "https://github.com/lee101/openpaths"
+date_added: "2026-06-16"

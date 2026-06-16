@@ -1,0 +1,8 @@
+name: "Codex Infinity"
+description: "An autonomous coding agent CLI built on OpenAI Codex. Flags like --auto-next-steps, --auto-next-idea, and --auto-next-goal let it keep coding, testing, and improving on its own. Works with any provider, including OpenRouter via your OpenRouter API key."
+url: "https://codex-infinity.com"
+docs: "https://codex-infinity.com/docs"
+tags:
+  - coding
+open_source: "https://github.com/lee101/codex-infinity"
+date_added: "2026-06-16"
