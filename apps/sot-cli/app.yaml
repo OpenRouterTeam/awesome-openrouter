@@ -1,0 +1,9 @@
+name: "sot-cli"
+description: "Pragmatic, limitless, multi-provider terminal AI agent built around the Source of Truth (SoT) Method. Batched tools, async sub-agents, unrestricted local execution."
+url: "https://github.com/SoftwareLogico/sot-cli"
+docs: "https://github.com/SoftwareLogico/sot-cli/blob/main/ARCHITECTURE.md"
+tags:
+  - coding
+  - productivity
+open_source: "https://github.com/SoftwareLogico/sot-cli"
+date_added: "2026-06-17"
