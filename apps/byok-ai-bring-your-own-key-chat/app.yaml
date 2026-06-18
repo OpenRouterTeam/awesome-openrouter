@@ -1,6 +1,6 @@
 name: "BYOK AI - Bring Your Own Key Chat"
 description: "A Chrome extension side panel for chatting with any OpenRouter model using your own API key. Includes page-context sharing, custom roles, and local chat history."
-url: "https://ivankmk.tech/projects/byok_chat/"
+url: "https://chromewebstore.google.com/detail/byok-ai-bring-your-own-ke/hlplpnglhpoklidbkkaelahmdkfigooe"
 docs: "https://ivankmk.tech/projects/byok_chat/#how-to-use"
 tags:
   - chat
