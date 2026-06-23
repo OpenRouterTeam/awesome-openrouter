@@ -1,7 +1,7 @@
 name: "Bodega One"
 description: "Local-first AI desktop IDE with chat and agentic code modes. Bring your own model: swap between local (Ollama, llama.cpp) and cloud providers per request, with a full offline air-gap mode."
-url: "https://bodegaone.ai"
-docs: "https://bodegaone.ai"
+url: "https://www.bodegaone.ai"
+docs: "https://www.bodegaone.ai/byollm"
 tags:
   - coding
 date_added: "2026-06-22"
