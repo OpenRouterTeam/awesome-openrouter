@@ -1,0 +1,10 @@
+name: "AionUi"
+description: "Free, local, open-source cowork desktop app with multiple AI agents. Bring your own OpenRouter API key to access any model, with multi-session chat, MCP, ACP, file preview, and 24/7 scheduled tasks on macOS, Windows and Linux."
+url: "https://www.aionui.com"
+docs: "https://github.com/iOfficeAI/AionUi"
+tags:
+  - chat
+  - coding
+  - productivity
+open_source: "https://github.com/iOfficeAI/AionUi"
+date_added: "2026-07-02"
