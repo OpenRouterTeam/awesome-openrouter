@@ -1,5 +1,5 @@
 name: "NyxID"
-description: "Connect AI agents to OpenRouter without handing them a raw key. Bring your own OpenRouter key — NyxID brokers it at the proxy layer, so each agent gets a scoped credential it can use but never read, with per-agent isolation and audit trails."
+description: "OpenRouter gives you one key for every model; NyxID lets you hand that key to every agent. Set it up once, then split it into scoped per-agent keys that proxy through NyxID — each agent uses the credential but never reads it, with per-agent isolation, rate limits, and audit."
 url: "https://nyx.chrono-ai.fun"
 docs: "https://nyx.chrono-ai.fun/docs/ai/guides/openrouter"
 tags:
