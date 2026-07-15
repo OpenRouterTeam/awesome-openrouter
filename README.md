@@ -42,6 +42,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [GitBug](#gitbug)
 - [GitHub Copilot](#github-copilot)
 - [Helicone](#helicone)
+- [Junie](#junie)
 - [Kilo Code](#kilo-code)
 - [LibreChat](#librechat)
 - [LlamaIndex](#llamaindex)
@@ -287,6 +288,18 @@ Observability and Evaluation. Bring your OpenRouter key to supercharge your infe
 `productivity` `research` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/Helicone/helicone)
 
 [Documentation](https://docs.helicone.ai/getting-started/integration-method/openrouter#openrouter-integration)
+
+---
+
+### [Junie](https://junie.jetbrains.com)
+
+<img src="./apps/junie/logo.png" alt="Junie logo" width="64" height="64">
+
+Agentic coding tool by JetBrains that works in the terminal and JetBrains IDEs, supporting BYOK with OpenRouter.
+
+`coding`
+
+[Documentation](https://junie.jetbrains.com/docs/byok-openrouter.html)
 
 ---
 

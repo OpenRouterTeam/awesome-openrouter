@@ -245,6 +245,18 @@
     "dateAdded": "2026-02-04"
   },
   {
+    "slug": "junie",
+    "name": "Junie",
+    "description": "Agentic coding tool by JetBrains that works in the terminal and JetBrains IDEs, supporting BYOK with OpenRouter.",
+    "url": "https://junie.jetbrains.com",
+    "docs": "https://junie.jetbrains.com/docs/byok-openrouter.html",
+    "tags": [
+      "coding"
+    ],
+    "openSource": null,
+    "dateAdded": "2026-07-15"
+  },
+  {
     "slug": "kilocode",
     "name": "Kilo Code",
     "description": "An AI-powered coding assistant for VS Code that supports multiple AI providers and models.",
