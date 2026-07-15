@@ -1,0 +1,7 @@
+name: "Junie"
+description: "Agentic coding tool by JetBrains that works in the terminal and JetBrains IDEs, supporting BYOK with OpenRouter."
+url: "https://junie.jetbrains.com"
+docs: "https://junie.jetbrains.com/docs/byok-openrouter.html"
+tags:
+  - coding
+date_added: "2026-07-15"
