@@ -1,0 +1,7 @@
+name: "Dictor"
+description: "Privacy-first desktop AI assistant for macOS and Windows with global voice dictation into any app, selected-text AI commands, and BYOK support for OpenRouter."
+url: "https://dictor.io"
+docs: "https://dictor.io/byok"
+tags:
+  - productivity
+date_added: "2026-06-08"
