@@ -1,0 +1,9 @@
+name: "AgentGuard Spend"
+description: "Local-runtime spend caps + capability-gated model routing for AI agents. Bring your OpenRouter key, set per-task budgets, and get Ed25519-signed audit receipts on every call."
+url: "https://agentguard.run"
+docs: "https://agentguard.run/docs/openrouter-quickstart"
+tags:
+  - productivity
+  - coding
+open_source: "https://github.com/MerchantGuardOps/agentguard-site"
+date_added: "2026-05-27"
