@@ -1,0 +1,7 @@
+name: "Tabula"
+description: "Personal memory for the person using OpenRouter. Tabula is an MCP memory layer: save a fact once and every model and MCP-capable app you use can recall it. Works with LibreChat, Open WebUI, coding agents, and plain tool-calling scripts."
+url: "https://www.tabula360.com"
+docs: "https://www.tabula360.com/blog/add-memory-to-your-openrouter-setup"
+tags:
+  - productivity
+date_added: "2026-07-17"
