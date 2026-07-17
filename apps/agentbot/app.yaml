@@ -1,0 +1,10 @@
+name: "Agentbot"
+description: "Deploy autonomous AI agents 24/7 on Telegram, Discord, WhatsApp, and X. Powered by MiMo V2.5 Pro with OpenRouter as primary provider. BYOK supported."
+url: "https://agentbot.sh"
+docs: "https://agentbot.sh/pricing"
+tags:
+  - chat
+  - productivity
+  - coding
+open_source: "https://github.com/Eskyee/agentbot-opensource"
+date_added: "2026-06-04"
