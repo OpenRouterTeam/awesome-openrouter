@@ -1,0 +1,8 @@
+name: "Sleek"
+description: "A native iOS client for OpenRouter. Chat with every model using your own OpenRouter key, import SillyTavern character cards, with conversation history stored only on your device and no account required."
+url: "https://apps.apple.com/us/app/sleek-byok/id6786075866"
+docs: "https://gacktaylor-sketch.github.io/sleek-legal/setup.html"
+tags:
+  - chat
+  - creative
+date_added: "2026-07-17"
