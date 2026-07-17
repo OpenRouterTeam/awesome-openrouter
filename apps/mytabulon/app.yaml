@@ -1,0 +1,8 @@
+name: "myTabulon"
+description: "An AI-powered business operating system combining CRM, invoices, payments, inventory, payroll, and documents with Maximo AI in one workspace."
+url: "https://mytabulon.com"
+docs: "https://mytabulon.com/guide"
+tags:
+  - chat
+  - productivity
+date_added: "2026-06-23"
