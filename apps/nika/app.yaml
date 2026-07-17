@@ -1,0 +1,9 @@
+name: "Nika"
+description: "Open-source (AGPL, Rust) workflow engine for AI: repeatable work lives in .nika.yaml DAG files, statically checked before execution (schema, permits, cost floor) with tamper-evident traces after. OpenRouter is a first-class named provider — tasks address models as openrouter/<model>."
+url: "https://nika.sh"
+docs: "https://docs.nika.sh/concepts/providers"
+tags:
+  - coding
+  - productivity
+open_source: "https://github.com/supernovae-st/nika"
+date_added: "2026-07-12"
