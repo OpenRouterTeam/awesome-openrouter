@@ -1,0 +1,7 @@
+name: "Infinity Tales"
+description: "AI-powered choose-your-own-adventure storytelling with character sheets, dice-based skill checks, combat, and generated scene images. Bring your own OpenRouter key or play on managed tiers."
+url: "https://infinity-tales.com"
+docs: "https://infinity-tales.com/guides/ai-models-guide"
+tags:
+  - creative
+date_added: "2026-07-11"
