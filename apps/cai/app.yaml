@@ -1,0 +1,8 @@
+name: "Cai"
+description: "Run smart actions and multi-step workflows on any text or image you select: AI prompts, shell scripts, ticket creation, in one keystroke. 100% local, free, and MIT licensed. macOS."
+url: "https://getcai.app"
+docs: "https://getcai.app/docs/getting-started/llm-setup/#openrouter"
+tags:
+  - productivity
+open_source: "https://github.com/cai-layer/cai"
+date_added: "2026-06-16"
