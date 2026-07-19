@@ -16,7 +16,7 @@
   {
     "slug": "agent-swarm",
     "name": "Agent Swarm",
-    "description": "Coordination intelligence for AI coding agents. A lead delegates, Docker-isolated workers ship code, memory compounds across sessions. Workers run via OpenRouter — bring your own key to pick any model (default: Qwen3 Coder Flash).",
+    "description": "Coordination intelligence for AI coding agents. A lead delegates, Docker-isolated workers ship code, memory compounds across sessions. Workers run via OpenRouter \u2014 bring your own key to pick any model (default: Qwen3 Coder Flash).",
     "url": "https://agent-swarm.dev",
     "docs": "https://docs.agent-swarm.dev/docs/guides/harness-configuration#opencode",
     "tags": [
@@ -43,7 +43,7 @@
   {
     "slug": "aiassistworks",
     "name": "AiAssistWorks",
-    "description": "AI for Google Sheets™, Slides™ & Docs™. Fill, clean, and categorize 100k+ rows with simple text commands—no complex formulas needed. Create charts, pivot tables, and write content using 100+ AI models.",
+    "description": "AI for Google Sheets\u2122, Slides\u2122 & Docs\u2122. Fill, clean, and categorize 100k+ rows with simple text commands\u2014no complex formulas needed. Create charts, pivot tables, and write content using 100+ AI models.",
     "url": "https://www.aiassistworks.com/",
     "docs": "https://support.aiassistworks.com/kb/article/8/setting-up-openrouter-api-key",
     "tags": [
@@ -119,7 +119,7 @@
   {
     "slug": "browser-use",
     "name": "Browser Use",
-    "description": "Open-source browser agent driven via CDP. Pairs with OpenRouter as the action layer for any LLM — execute real web tasks with Claude, GPT, Gemini, or any of OR's 300+ models. 92K stars on main repo, 135K+ across the org. YC W25.",
+    "description": "Open-source browser agent driven via CDP. Pairs with OpenRouter as the action layer for any LLM \u2014 execute real web tasks with Claude, GPT, Gemini, or any of OR's 300+ models. 92K stars on main repo, 135K+ across the org. YC W25.",
     "url": "https://browser-use.com",
     "docs": "https://docs.browser-use.com/open-source/supported-models#openrouter",
     "tags": [
@@ -372,7 +372,7 @@
   {
     "slug": "octomind",
     "name": "Octomind",
-    "description": "Session-based AI development assistant CLI. MCP tool execution, multi-provider support via OpenRouter, roles, skills, and agent orchestration — all from the terminal.",
+    "description": "Session-based AI development assistant CLI. MCP tool execution, multi-provider support via OpenRouter, roles, skills, and agent orchestration \u2014 all from the terminal.",
     "url": "https://octomind.run",
     "docs": "https://octomind.run/docs/providers/openrouter",
     "tags": [
@@ -385,7 +385,7 @@
   {
     "slug": "openrouter-mcp-multimodal",
     "name": "OpenRouter MCP Multimodal",
-    "description": "All-in-one MCP server that gives Claude Desktop, Cursor, Kiro, VS Code, Windsurf, and Cline access to OpenRouter's 300+ LLMs — chat, image / audio / video analysis, and image / audio / video generation (Veo 3.1, Sora, Seedance, Wan).",
+    "description": "All-in-one MCP server that gives Claude Desktop, Cursor, Kiro, VS Code, Windsurf, and Cline access to OpenRouter's 300+ LLMs \u2014 chat, image / audio / video analysis, and image / audio / video generation (Veo 3.1, Sora, Seedance, Wan).",
     "url": "https://github.com/stabgan/openrouter-mcp-multimodal",
     "docs": "https://github.com/stabgan/openrouter-mcp-multimodal#quick-start",
     "tags": [
@@ -447,7 +447,7 @@
   {
     "slug": "project-airi",
     "name": "Project AIRI",
-    "description": "An open‑source virtual companion inspired by Neuro-sama that can chat, listen, speak, and play games",
+    "description": "An open\u2011source virtual companion inspired by Neuro-sama that can chat, listen, speak, and play games",
     "url": "https://airi.moeru.ai/",
     "docs": "https://airi.moeru.ai/docs/en/",
     "tags": [
@@ -534,6 +534,19 @@
     ],
     "openSource": "https://github.com/skalesapp/skales",
     "dateAdded": "2026-03-26"
+  },
+  {
+    "slug": "sot-cli",
+    "name": "sot-cli",
+    "description": "Pragmatic, limitless, multi-provider terminal AI agent built around the Source of Truth (SoT) Method. Batched tools, async sub-agents, unrestricted local execution.",
+    "url": "https://github.com/SoftwareLogico/sot-cli",
+    "docs": "https://github.com/SoftwareLogico/sot-cli/blob/main/ARCHITECTURE.md",
+    "tags": [
+      "coding",
+      "productivity"
+    ],
+    "openSource": "https://github.com/SoftwareLogico/sot-cli",
+    "dateAdded": "2026-06-17"
   },
   {
     "slug": "soulforge",
