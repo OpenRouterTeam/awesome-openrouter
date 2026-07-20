@@ -1,0 +1,8 @@
+name: "AFK"
+description: "Browser-based command center for persistent coding-agent sessions. Connect a daemon, bring your OpenRouter API key, choose a model per session, and supervise agent work from the web UI."
+url: "https://afk.mooglest.com"
+docs: "https://docs.mooglest.com/providers#openrouter"
+tags:
+  - coding
+  - productivity
+date_added: "2026-06-20"
