@@ -1,0 +1,10 @@
+name: "InternAgent"
+description: "Open-source agentic framework for autonomous scientific discovery, deep research, and experiment iteration. Use OpenRouter as the model gateway with your own API key."
+url: "https://discovery.intern-ai.org.cn"
+docs: "https://github.com/InternScience/InternAgent/blob/main/docs/openrouter.md"
+tags:
+  - research
+  - productivity
+  - coding
+open_source: "https://github.com/InternScience/InternAgent"
+date_added: "2026-06-10"
