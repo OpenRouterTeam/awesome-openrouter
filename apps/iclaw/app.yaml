@@ -1,0 +1,9 @@
+name: "iClaw"
+description: "Local-first AI workspace that runs agent sessions in isolated containers."
+url: "https://iclaw.digital"
+docs: "https://iclaw.digital/docs"
+tags:
+  - productivity
+  - other
+open_source: "https://github.com/iclawapp/iclaw"
+date_added: "2026-06-09"
