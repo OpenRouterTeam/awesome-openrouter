@@ -1,0 +1,10 @@
+name: "App.nz"
+description: "New Zealand applied-AI platform for app hosting, autonomous coding agents, chat, deep research, and model routing. Connects models from OpenRouter and other providers in one place using your own API keys."
+url: "https://app.nz"
+docs: "https://app.nz/docs"
+tags:
+  - chat
+  - coding
+  - research
+  - productivity
+date_added: "2026-06-16"
