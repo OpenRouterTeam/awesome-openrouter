@@ -1,0 +1,9 @@
+name: "Fud AI"
+description: "Free, open-source calorie and workout tracker for iOS and Android. Bring your own OpenRouter key to analyze food photos and descriptions, estimate nutrition, and chat with an AI coach."
+url: "https://fud-ai.app"
+docs: "https://github.com/apoorvdarshan/fud-ai#ai-providers"
+tags:
+  - productivity
+  - other
+open_source: "https://github.com/apoorvdarshan/fud-ai"
+date_added: "2026-07-26"
