@@ -1,7 +1,7 @@
 name: "ReviewGate"
 description: "Open-source, GitHub Actions-first review gate for agent-written pull requests. Use your OpenRouter API key in CI to publish a 0-5 score, canonical PR summary, inline findings, and structured JSON for agent fix loops."
 url: "https://reviewgate.lvtd.dev"
-docs: "https://github.com/LVTD-LLC/reviewgate#github-action-quick-start"
+docs: "https://reviewgate.lvtd.dev/docs/"
 tags:
   - coding
   - productivity
