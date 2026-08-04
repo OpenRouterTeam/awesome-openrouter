@@ -1,0 +1,9 @@
+name: "Scowld"
+description: "An open-source iOS AI voice companion with an animated VRM character, hands-free wake mode, optional vision, local chat history, and bring-your-own-key support for OpenRouter and other providers."
+url: "https://scowld.xyz"
+docs: "https://github.com/apoorvdarshan/scowld#setup"
+tags:
+  - chat
+  - creative
+open_source: "https://github.com/apoorvdarshan/scowld"
+date_added: "2026-08-04"
