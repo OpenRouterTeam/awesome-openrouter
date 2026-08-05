@@ -1,0 +1,8 @@
+name: "SurfMind"
+description: "AI assistant for every website you visit. SurfMind adds a chat sidebar that understands the page you're on and connects to 100+ top AI models via OpenRouter. Use it to chat about any page, get writing help, automate browser tasks, and work with PDFs and images."
+url: "https://surfmind.ai"
+docs: "https://surfmind.ai/blog/how-to-use-openrouter-in-your-browser"
+tags:
+  - chat
+  - productivity
+date_added: "2026-08-05"
