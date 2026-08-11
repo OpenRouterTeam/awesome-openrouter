@@ -1,0 +1,9 @@
+name: "Speakeasy"
+description: "The AI control plane for your organization. Speakeasy lets you securely connect, secure, observe, and distribute agents, MCP servers, and skills across your company — bring your OpenRouter key and choose any model."
+url: "https://www.speakeasy.com"
+docs: "https://www.speakeasy.com/docs/ai-control-plane/org-admin/ai-integrations/openrouter"
+tags:
+  - chat
+  - coding
+  - productivity
+date_added: "2026-08-07"
