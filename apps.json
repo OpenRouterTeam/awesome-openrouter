@@ -614,6 +614,20 @@
     "dateAdded": "2026-04-17"
   },
   {
+    "slug": "speakeasy",
+    "name": "Speakeasy",
+    "description": "The AI control plane for your organization. Speakeasy lets you securely connect, secure, observe, and distribute agents, MCP servers, and skills across your company — bring your OpenRouter key and choose any model.",
+    "url": "https://www.speakeasy.com",
+    "docs": "https://www.speakeasy.com/docs/ai-control-plane/org-admin/ai-integrations/openrouter",
+    "tags": [
+      "chat",
+      "coding",
+      "productivity"
+    ],
+    "openSource": null,
+    "dateAdded": "2026-08-07"
+  },
+  {
     "slug": "spokenly",
     "name": "Spokenly",
     "description": "Dictation app for macOS, Windows, and iOS, free when you bring your own API keys. Real-time and file transcription, plus optional AI text cleanup and rewriting using your own OpenRouter key and the model you pick.",

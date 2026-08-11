@@ -72,6 +72,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Skales](#skales)
 - [SoulForge](#soulforge)
 - [Space Agent](#space-agent)
+- [Speakeasy](#speakeasy)
 - [Spokenly](#spokenly)
 - [Stirrup](#stirrup)
 - [VT Code](#vt-code)
@@ -652,6 +653,18 @@ Free and open-source AI agent that builds your space right in the browser.
 `productivity` `chat` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/agent0ai/space-agent)
 
 [Documentation](https://github.com/agent0ai/space-agent/blob/main/app/L0/_all/mod/_core/documentation/docs/agent/onscreen-agent-runtime.md)
+
+---
+
+### [Speakeasy](https://www.speakeasy.com)
+
+<img src="./apps/speakeasy/logo.png" alt="Speakeasy logo" width="64" height="64">
+
+The AI control plane for your organization. Speakeasy lets you securely connect, secure, observe, and distribute agents, MCP servers, and skills across your company — bring your OpenRouter key and choose any model.
+
+`chat` `coding` `productivity`
+
+[Documentation](https://www.speakeasy.com/docs/ai-control-plane/org-admin/ai-integrations/openrouter)
 
 ---
 
