@@ -1,0 +1,8 @@
+name: "OpenRouter CLI"
+description: "Every OpenRouter endpoint on the command line, for humans and LLM agents. Browser OAuth login; chat, embeddings, rerank, audio, video, models, keys and workspaces; a raw request escape hatch; --json on every command. Zero dependencies."
+url: "https://github.com/aaronjmars/openroutercli"
+docs: "https://github.com/aaronjmars/openroutercli#quick-start"
+tags:
+  - coding
+open_source: "https://github.com/aaronjmars/openroutercli"
+date_added: "2026-08-16"
