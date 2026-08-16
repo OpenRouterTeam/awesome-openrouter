@@ -1,0 +1,8 @@
+name: "Agent QA"
+description: "Source-available QA agent for natural-language web and mobile tests. Bring an OpenRouter API key through its OpenAI-compatible provider and retain evidence and test memory across runs."
+url: "https://github.com/vostride/agent-qa"
+docs: "https://vostride.com/docs/agent-qa/quickstart#open-the-dashboard"
+tags:
+  - coding
+  - productivity
+date_added: "2026-08-16"
