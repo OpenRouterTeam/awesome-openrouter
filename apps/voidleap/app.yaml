@@ -1,7 +1,7 @@
 name: "Voidleap Code"
 description: "A full coding environment. A harness, not a wrapper. Every agent in one view. Switch model and edit context mid thread. Your machine, your keys or local models. Nothing routes through us. "
 url: "https://voidleap.com"
-docs: "https://voidleap.com/models-and-providers/"
+docs: "https://voidleap.com/models-and-providers/#connect"
 tags:
   - coding
 date_added: "2026-08-21"
