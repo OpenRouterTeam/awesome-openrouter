@@ -1,0 +1,10 @@
+name: "Letta"
+description: "The platform for building stateful AI agents with persistent memory, skills, and context that improve over time. Connect an OpenRouter API key to run agents on models available through OpenRouter."
+url: "https://letta.com"
+docs: "https://docs.letta.com/configuration/models"
+tags:
+  - coding
+  - productivity
+  - research
+open_source: "https://github.com/letta-ai/letta"
+date_added: "2026-08-23"
