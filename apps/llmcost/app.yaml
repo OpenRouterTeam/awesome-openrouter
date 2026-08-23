@@ -1,0 +1,8 @@
+name: "LLMCost"
+description: "Live LLM API pricing comparison across 400+ models. Estimate monthly costs for your workload (chatbot, coding agent, RAG), compare models side by side, and shred your bill to find savings."
+url: "https://llm-cost.io"
+docs: "https://llm-cost.io/llms.txt"
+tags:
+  - productivity
+  - research
+date_added: "2026-08-23"
