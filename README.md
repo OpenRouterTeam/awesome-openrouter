@@ -55,6 +55,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Letta](#letta)
 - [LibreChat](#librechat)
 - [LlamaIndex](#llamaindex)
+- [Llumen](#llumen)
 - [Mastra](#mastra)
 - [Maxim AI](#maxim-ai)
 - [NanoClaw](#nanoclaw)
@@ -457,6 +458,18 @@ Framework for building knowledge assistants using LLMs connected to your enterpr
 `coding` `research` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/run-llama/llama_index)
 
 [Documentation](https://docs.llamaindex.ai/en/stable/api_reference/llms/openrouter/)
+
+---
+
+### [Llumen](https://pinkfuwa.github.io/llumen/)
+
+<img src="./apps/llumen/logo.png" alt="Llumen logo" width="64" height="64">
+
+A lightweight, self-hosted LLM chat app optimized for modest hardware (Raspberry Pi, old laptops, minimal VPS), with OpenRouter as the default provider, plus web search and deep research modes.
+
+`chat` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/pinkfuwa/llumen)
+
+[Documentation](https://pinkfuwa.github.io/llumen/)
 
 ---
 

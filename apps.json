@@ -412,6 +412,18 @@
     "dateAdded": "2026-02-04"
   },
   {
+    "slug": "llumen",
+    "name": "Llumen",
+    "description": "A lightweight, self-hosted LLM chat app optimized for modest hardware (Raspberry Pi, old laptops, minimal VPS), with OpenRouter as the default provider, plus web search and deep research modes.",
+    "url": "https://pinkfuwa.github.io/llumen/",
+    "docs": "https://pinkfuwa.github.io/llumen/",
+    "tags": [
+      "chat"
+    ],
+    "openSource": "https://github.com/pinkfuwa/llumen",
+    "dateAdded": "2026-07-30"
+  },
+  {
     "slug": "mastra",
     "name": "Mastra",
     "description": "An open-source TypeScript framework for building AI-powered applications and agents.",
