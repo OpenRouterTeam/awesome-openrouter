@@ -118,6 +118,20 @@
     "dateAdded": "2025-01-15"
   },
   {
+    "slug": "atomic-agent",
+    "name": "Atomic Agent",
+    "description": "A local-first AI agent for the terminal. Runs open-weight models on your own machine, and routes to OpenRouter with your own key when a task needs a frontier model.",
+    "url": "https://atomicagent.io",
+    "docs": "https://atomicagent.io/docs/guides/openrouter/",
+    "tags": [
+      "productivity",
+      "coding",
+      "chat"
+    ],
+    "openSource": "https://github.com/AtomicBot-ai/atomic-agent",
+    "dateAdded": "2026-08-13"
+  },
+  {
     "slug": "autohand",
     "name": "Autohand Code CLI",
     "description": "The world fastest open code cli agent",
@@ -281,6 +295,18 @@
     ],
     "openSource": null,
     "dateAdded": "2026-01-13"
+  },
+  {
+    "slug": "hax",
+    "name": "hax",
+    "description": "A minimalist, terminal-native coding agent written in C. Tiny footprint (a few MBs of RAM), preserves native terminal scrollback, uses plain text and subprocesses instead of plugins.",
+    "url": "https://usehax.dev",
+    "docs": "https://github.com/OleksandrChekhovskyi/hax/blob/master/docs/providers.md#openrouter",
+    "tags": [
+      "coding"
+    ],
+    "openSource": "https://github.com/OleksandrChekhovskyi/hax",
+    "dateAdded": "2026-08-13"
   },
   {
     "slug": "helicone",

@@ -32,6 +32,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [AionUi](#aionui)
 - [All API Hub](#all-api-hub)
 - [analystOS](#analystos)
+- [Atomic Agent](#atomic-agent)
 - [Autohand Code CLI](#autohand-code-cli)
 - [Aventura](#aventura)
 - [BoltAI](#boltai)
@@ -45,6 +46,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Dexto](#dexto)
 - [GitBug](#gitbug)
 - [GitHub Copilot](#github-copilot)
+- [hax](#hax)
 - [Helicone](#helicone)
 - [InternAgent](#internagent)
 - [Junie](#junie)
@@ -176,6 +178,18 @@ Web UI for AI-powered research + optional Notion automation. Upload docs, scrape
 `research` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/sheeki03/analystOS)
 
 [Documentation](https://github.com/sheeki03/analystOS#readme)
+
+---
+
+### [Atomic Agent](https://atomicagent.io)
+
+<img src="./apps/atomic-agent/logo.png" alt="Atomic Agent logo" width="64" height="64">
+
+A local-first AI agent for the terminal. Runs open-weight models on your own machine, and routes to OpenRouter with your own key when a task needs a frontier model.
+
+`productivity` `coding` `chat` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/AtomicBot-ai/atomic-agent)
+
+[Documentation](https://atomicagent.io/docs/guides/openrouter/)
 
 ---
 
@@ -332,6 +346,18 @@ Bring your own OpenRouter key to VS Code and GitHub Copilot to use Agent mode wi
 `coding`
 
 [Documentation](https://code.visualstudio.com/docs/copilot/language-models#_bring-your-own-language-model-key)
+
+---
+
+### [hax](https://usehax.dev)
+
+<img src="./apps/hax/logo.png" alt="hax logo" width="64" height="64">
+
+A minimalist, terminal-native coding agent written in C. Tiny footprint (a few MBs of RAM), preserves native terminal scrollback, uses plain text and subprocesses instead of plugins.
+
+`coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/OleksandrChekhovskyi/hax)
+
+[Documentation](https://github.com/OleksandrChekhovskyi/hax/blob/master/docs/providers.md#openrouter)
 
 ---
 
