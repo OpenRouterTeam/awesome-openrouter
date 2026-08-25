@@ -27,6 +27,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Aeon](#aeon)
 - [Agent Swarm](#agent-swarm)
 - [Agent Zero](#agent-zero)
+- [Agent37](#agent37)
 - [AiAssistWorks](#aiassistworks)
 - [Aider](#aider)
 - [AionUi](#aionui)
@@ -120,6 +121,18 @@ Build autonomous AI agents effortlessly.
 `productivity` `chat` `research` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/agent0ai/agent-zero)
 
 [Documentation](https://www.agent-zero.ai/p/docs/get-started/#configuration)
+
+---
+
+### [Agent37](https://www.agent37.com/cloud)
+
+<img src="./apps/agent37/logo.png" alt="Agent37 logo" width="64" height="64">
+
+Managed cloud for persistent AI agents. Launch an isolated sandbox in about 12 seconds, keep its disk across sleep and wake, and run every turn on your own OpenRouter key.
+
+`coding` `productivity`
+
+[Documentation](https://www.agent37.com/docs/agents-api/byo-model)
 
 ---
 
