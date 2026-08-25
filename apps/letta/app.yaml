@@ -1,0 +1,10 @@
+name: "Letta"
+description: "Letta Code is a fully open-source harness for creating stateful agents with frontier memory and learning. With Letta Cloud, agents can be used as cloud agents that work across devices and can be shared across your team."
+url: "https://letta.com"
+docs: "https://docs.letta.com/configuration/models"
+tags:
+  - coding
+  - productivity
+  - research
+open_source: "https://github.com/letta-ai/letta-code"
+date_added: "2026-08-23"
