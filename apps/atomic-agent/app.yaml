@@ -1,8 +1,10 @@
 name: "Atomic Agent"
-description: "A local-first coding agent for the terminal, with a CLI and a TUI. Runs open-weight models on your machine, or routes to OpenRouter with your own API key. 56 built-in tools, MCP support, and a five-layer local memory."
+description: "A local-first AI agent for the terminal. Runs open-weight models on your own machine, and routes to OpenRouter with your own key when a task needs a frontier model."
 url: "https://atomicagent.io"
-docs: "https://atomicagent.io/docs/using/configuration#secrets-the-env-file"
+docs: "https://atomicagent.io/docs/guides/openrouter/"
 tags:
+  - productivity
   - coding
+  - chat
 open_source: "https://github.com/AtomicBot-ai/atomic-agent"
 date_added: "2026-08-13"
