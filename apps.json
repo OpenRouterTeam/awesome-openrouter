@@ -286,6 +286,19 @@
     "dateAdded": "2026-02-06"
   },
   {
+    "slug": "fud-ai",
+    "name": "Fud AI",
+    "description": "Free, open-source calorie and workout tracker for iOS and Android. Bring your own OpenRouter key to analyze food photos and descriptions, estimate nutrition, and chat with an AI coach.",
+    "url": "https://fud-ai.app",
+    "docs": "https://github.com/apoorvdarshan/fud-ai#ai-providers",
+    "tags": [
+      "productivity",
+      "other"
+    ],
+    "openSource": "https://github.com/apoorvdarshan/fud-ai",
+    "dateAdded": "2026-07-26"
+  },
+  {
     "slug": "gitbug",
     "name": "GitBug",
     "description": "AI-powered code review for GitHub PRs. Bring your own OpenRouter key to get automated reviews with 100+ models.",

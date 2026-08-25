@@ -45,6 +45,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Cline](#cline)
 - [Cloudflare AI Gateway](#cloudflare-ai-gateway)
 - [Dexto](#dexto)
+- [Fud AI](#fud-ai)
 - [GitBug](#gitbug)
 - [GitHub Copilot](#github-copilot)
 - [hax](#hax)
@@ -338,6 +339,18 @@ Open agent harness for AI apps with a production-ready coding agent, CLI, and We
 `coding` `productivity` `research` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/truffle-ai/dexto)
 
 [Documentation](https://docs.dexto.ai/docs/guides/configuring-dexto/llm#gateway-providers)
+
+---
+
+### [Fud AI](https://fud-ai.app)
+
+<img src="./apps/fud-ai/logo.png" alt="Fud AI logo" width="64" height="64">
+
+Free, open-source calorie and workout tracker for iOS and Android. Bring your own OpenRouter key to analyze food photos and descriptions, estimate nutrition, and chat with an AI coach.
+
+`productivity` `other` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/apoorvdarshan/fud-ai)
+
+[Documentation](https://github.com/apoorvdarshan/fud-ai#ai-providers)
 
 ---
 
