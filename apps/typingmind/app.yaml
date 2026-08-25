@@ -1,0 +1,7 @@
+name: "TypingMind"
+description: "TypingMind is a powerful AI workspace for accessing top models from 18+ providers using your own API keys. It includes advanced features like Projects, parallel chats, Plugins, MCP, Skills, and extensive customization—all in one app."
+url: "https://www.typingmind.com/"
+docs: "https://docs.typingmind.com/"
+tags:
+  - chat
+date_added: "2026-08-06"
