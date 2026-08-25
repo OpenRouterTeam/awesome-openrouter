@@ -80,6 +80,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Speakeasy](#speakeasy)
 - [Spokenly](#spokenly)
 - [Stirrup](#stirrup)
+- [SurfMind](#surfmind)
 - [VT Code](#vt-code)
 - [Warden](#warden)
 
@@ -754,6 +755,18 @@ A lightweight framework for building agents. Bring your own OpenRouter key and u
 `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/ArtificialAnalysis/Stirrup)
 
 [Documentation](https://stirrup.artificialanalysis.ai/)
+
+---
+
+### [SurfMind](https://surfmind.ai)
+
+<img src="./apps/surfmind/logo.png" alt="SurfMind logo" width="64" height="64">
+
+Instant AI on the Web. SurfMind adds to your browser an AI chat sidebar that understands the page you're on to help you work smarter and faster. Compatible with Chrome, Edge, Safari, Firefox and any Chromium browser.
+
+`chat` `productivity`
+
+[Documentation](https://surfmind.ai/blog/how-to-use-openrouter-in-your-browser)
 
 ---
 
