@@ -1,0 +1,10 @@
+name: "Atomic Agent"
+description: "A local-first AI agent for the terminal. Runs open-weight models on your own machine, and routes to OpenRouter with your own key when a task needs a frontier model."
+url: "https://atomicagent.io"
+docs: "https://atomicagent.io/docs/guides/openrouter/"
+tags:
+  - productivity
+  - coding
+  - chat
+open_source: "https://github.com/AtomicBot-ai/atomic-agent"
+date_added: "2026-08-13"
