@@ -730,6 +730,18 @@
     "dateAdded": "2026-08-05"
   },
   {
+    "slug": "typingmind",
+    "name": "TypingMind",
+    "description": "TypingMind is a powerful AI workspace for accessing top models from 18+ providers using your own API keys. It includes advanced features like Projects, parallel chats, Plugins, MCP, Skills, and extensive customization—all in one app.",
+    "url": "https://www.typingmind.com/",
+    "docs": "https://docs.typingmind.com/",
+    "tags": [
+      "chat"
+    ],
+    "openSource": null,
+    "dateAdded": "2026-08-06"
+  },
+  {
     "slug": "vtcode",
     "name": "VT Code",
     "description": "Semantic coding agent in the terminal",

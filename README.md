@@ -81,6 +81,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Spokenly](#spokenly)
 - [Stirrup](#stirrup)
 - [SurfMind](#surfmind)
+- [TypingMind](#typingmind)
 - [VT Code](#vt-code)
 - [Warden](#warden)
 
@@ -767,6 +768,18 @@ Instant AI on the Web. SurfMind adds to your browser an AI chat sidebar that und
 `chat` `productivity`
 
 [Documentation](https://surfmind.ai/blog/how-to-use-openrouter-in-your-browser)
+
+---
+
+### [TypingMind](https://www.typingmind.com/)
+
+<img src="./apps/typingmind/logo.png" alt="TypingMind logo" width="64" height="64">
+
+TypingMind is a powerful AI workspace for accessing top models from 18+ providers using your own API keys. It includes advanced features like Projects, parallel chats, Plugins, MCP, Skills, and extensive customization—all in one app.
+
+`chat`
+
+[Documentation](https://docs.typingmind.com/)
 
 ---
 
