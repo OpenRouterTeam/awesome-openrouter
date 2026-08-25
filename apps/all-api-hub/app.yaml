@@ -1,0 +1,8 @@
+name: "All API Hub"
+description: "A local-first browser extension for managing OpenRouter accounts and BYOK credentials. Manage workspace API keys, browse models and pricing, validate credentials with model requests, and export configurations to supported AI clients."
+url: "https://all-api-hub.qixing1217.top/"
+docs: "https://all-api-hub.qixing1217.top/en/service-guides/openrouter.html"
+tags:
+  - productivity
+open_source: "https://github.com/qixing-jk/all-api-hub"
+date_added: "2026-08-12"
