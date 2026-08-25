@@ -1,0 +1,8 @@
+name: "hax"
+description: "A minimalist, terminal-native coding agent written in C. Tiny footprint (a few MBs of RAM), preserves native terminal scrollback, uses plain text and subprocesses instead of plugins."
+url: "https://usehax.dev"
+docs: "https://github.com/OleksandrChekhovskyi/hax/blob/master/docs/providers.md#openrouter"
+tags:
+  - coding
+open_source: "https://github.com/OleksandrChekhovskyi/hax"
+date_added: "2026-08-13"
