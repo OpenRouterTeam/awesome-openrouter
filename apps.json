@@ -80,6 +80,18 @@
     "dateAdded": "2026-07-02"
   },
   {
+    "slug": "all-api-hub",
+    "name": "All API Hub",
+    "description": "A local-first browser extension for managing OpenRouter accounts and BYOK credentials. Manage workspace API keys, browse models and pricing, validate credentials with model requests, and export configurations to supported AI clients.",
+    "url": "https://all-api-hub.qixing1217.top/",
+    "docs": "https://all-api-hub.qixing1217.top/en/service-guides/openrouter.html",
+    "tags": [
+      "productivity"
+    ],
+    "openSource": "https://github.com/qixing-jk/all-api-hub",
+    "dateAdded": "2026-08-12"
+  },
+  {
     "slug": "analystos",
     "name": "analystOS",
     "description": "Web UI for AI-powered research + optional Notion automation. Upload docs, scrape URLs, chat with research via RAG. Connect Notion for zero-touch automated reports. 50+ OpenRouter models.",

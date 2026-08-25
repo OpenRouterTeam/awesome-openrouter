@@ -29,6 +29,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [AiAssistWorks](#aiassistworks)
 - [Aider](#aider)
 - [AionUi](#aionui)
+- [All API Hub](#all-api-hub)
 - [analystOS](#analystos)
 - [Autohand Code CLI](#autohand-code-cli)
 - [Aventura](#aventura)
@@ -138,6 +139,18 @@ Free, local, open-source cowork desktop app with multiple AI agents. Bring your 
 `chat` `coding` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/iOfficeAI/AionUi)
 
 [Documentation](https://github.com/iOfficeAI/AionUi)
+
+---
+
+### [All API Hub](https://all-api-hub.qixing1217.top/)
+
+<img src="./apps/all-api-hub/logo.png" alt="All API Hub logo" width="64" height="64">
+
+A local-first browser extension for managing OpenRouter accounts and BYOK credentials. Manage workspace API keys, browse models and pricing, validate credentials with model requests, and export configurations to supported AI clients.
+
+`productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/qixing-jk/all-api-hub)
+
+[Documentation](https://all-api-hub.qixing1217.top/en/service-guides/openrouter.html)
 
 ---
 
