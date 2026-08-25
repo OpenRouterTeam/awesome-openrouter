@@ -47,6 +47,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [InternAgent](#internagent)
 - [Junie](#junie)
 - [Kilo Code](#kilo-code)
+- [Letta](#letta)
 - [LibreChat](#librechat)
 - [LlamaIndex](#llamaindex)
 - [Mastra](#mastra)
@@ -353,6 +354,18 @@ An AI-powered coding assistant for VS Code that supports multiple AI providers a
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/Kilo-Org/kilocode)
 
 [Documentation](https://kilo.ai/docs/providers/openrouter)
+
+---
+
+### [Letta](https://letta.com)
+
+<img src="./apps/letta/logo.png" alt="Letta logo" width="64" height="64">
+
+Letta Code is a fully open-source harness for creating stateful agents with frontier memory and learning. With Letta Cloud, agents can be used as cloud agents that work across devices and can be shared across your team.
+
+`coding` `productivity` `research` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/letta-ai/letta-code)
+
+[Documentation](https://docs.letta.com/configuration/models)
 
 ---
 

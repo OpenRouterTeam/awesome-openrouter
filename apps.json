@@ -309,6 +309,20 @@
     "dateAdded": "2025-01-08"
   },
   {
+    "slug": "letta",
+    "name": "Letta",
+    "description": "Letta Code is a fully open-source harness for creating stateful agents with frontier memory and learning. With Letta Cloud, agents can be used as cloud agents that work across devices and can be shared across your team.",
+    "url": "https://letta.com",
+    "docs": "https://docs.letta.com/configuration/models",
+    "tags": [
+      "coding",
+      "productivity",
+      "research"
+    ],
+    "openSource": "https://github.com/letta-ai/letta-code",
+    "dateAdded": "2026-08-23"
+  },
+  {
     "slug": "librechat",
     "name": "LibreChat",
     "description": "An open-source chat application for all your AI conversations, compatible with any AI provider.",
