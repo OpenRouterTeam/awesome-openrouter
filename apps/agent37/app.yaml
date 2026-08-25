@@ -1,0 +1,8 @@
+name: "Agent37"
+description: "Managed cloud for persistent AI agents. Launch an isolated sandbox in about 12 seconds, keep its disk across sleep and wake, and run every turn on your own OpenRouter key."
+url: "https://www.agent37.com/cloud"
+docs: "https://www.agent37.com/docs/agents-api/byo-model"
+tags:
+  - coding
+  - productivity
+date_added: "2026-08-04"
