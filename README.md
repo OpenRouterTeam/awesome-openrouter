@@ -24,6 +24,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 
 ## Table of Contents
 
+- [Aeon](#aeon)
 - [Agent Swarm](#agent-swarm)
 - [Agent Zero](#agent-zero)
 - [AiAssistWorks](#aiassistworks)
@@ -81,6 +82,18 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Warden](#warden)
 
 ## Apps
+
+### [Aeon](https://github.com/aeonfun/aeon)
+
+<img src="./apps/aeon/logo.png" alt="Aeon logo" width="64" height="64">
+
+Autonomous agent framework that runs on GitHub Actions: cron-scheduled Markdown skills, self-healing and fleet-replicating. Four of its six coding-agent harnesses (Codex, Pi, Vibe, Kimi) route through OpenRouter with your own API key; its LLM gateway can route Claude Code via OpenRouter too.
+
+`coding` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/aeonfun/aeon)
+
+[Documentation](https://github.com/aeonfun/aeon/blob/main/docs/harnesses.md)
+
+---
 
 ### [Agent Swarm](https://agent-swarm.dev)
 

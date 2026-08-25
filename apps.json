@@ -14,6 +14,19 @@
     "dateAdded": "2026-02-05"
   },
   {
+    "slug": "aeon",
+    "name": "Aeon",
+    "description": "Autonomous agent framework that runs on GitHub Actions: cron-scheduled Markdown skills, self-healing and fleet-replicating. Four of its six coding-agent harnesses (Codex, Pi, Vibe, Kimi) route through OpenRouter with your own API key; its LLM gateway can route Claude Code via OpenRouter too.",
+    "url": "https://github.com/aeonfun/aeon",
+    "docs": "https://github.com/aeonfun/aeon/blob/main/docs/harnesses.md",
+    "tags": [
+      "coding",
+      "productivity"
+    ],
+    "openSource": "https://github.com/aeonfun/aeon",
+    "dateAdded": "2026-08-16"
+  },
+  {
     "slug": "agent-swarm",
     "name": "Agent Swarm",
     "description": "Coordination intelligence for AI coding agents. A lead delegates, Docker-isolated workers ship code, memory compounds across sessions. Workers run via OpenRouter — bring your own key to pick any model (default: Qwen3 Coder Flash).",
