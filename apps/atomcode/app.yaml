@@ -1,9 +1,9 @@
 name: "AtomCode"
 description: "Open-source, terminal-based AI coding agent — an alternative to Claude Code. Connect any LLM, including OpenRouter with your own API key, to edit code, run commands, and verify changes autonomously. Built in Rust."
 url: "https://atomcode.atomgit.com/"
-docs: "https://gitcode.com/atomgit_atomcode/atomcode#multi-provider-support"
+docs: "https://atomgit.com/atomgit_atomcode/atomcode#multi-provider-support"
 tags:
   - coding
   - productivity
-open_source: "https://gitcode.com/atomgit_atomcode/atomcode"
+open_source: "https://atomgit.com/atomgit_atomcode/atomcode"
 date_added: "2026-08-26"
