@@ -8,6 +8,7 @@ const addFormats = require('ajv-formats');
 
 const APPS_DIR = path.join(__dirname, '..', 'apps');
 const SCHEMA_PATH = path.join(__dirname, '..', 'schema', 'app.schema.json');
+const APP_DIR_PATTERN = /^[a-z0-9-]+$/;
 
 const ajv = new Ajv({ allErrors: true });
 addFormats(ajv);
@@ -18,6 +19,13 @@ const validate = ajv.compile(schema);
 function validateApp(appDir) {
   const errors = [];
   const appPath = path.join(APPS_DIR, appDir);
+
+  // Check app directory name
+  if (!APP_DIR_PATTERN.test(appDir)) {
+    errors.push(
+      `Invalid app directory name: ${appDir}. Directory names must contain only lowercase letters, numbers, and hyphens`,
+    );
+  }
 
   // Check directory exists
   if (!fs.existsSync(appPath)) {
