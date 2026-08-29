@@ -1,0 +1,9 @@
+name: "Jarvis"
+description: "Open-source agent runtime you can talk to. It uses a real computer (Linux desktop, optional Android box). Bring your own OpenRouter key."
+url: "https://berkkarabacak.com/jarvis/"
+docs: "https://github.com/berkkarabacak/jarvis#keys"
+tags:
+  - chat
+  - productivity
+open_source: "https://github.com/berkkarabacak/jarvis"
+date_added: "2026-08-29"
