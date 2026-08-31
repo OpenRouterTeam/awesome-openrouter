@@ -59,6 +59,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Llumen](#llumen)
 - [Mastra](#mastra)
 - [Maxim AI](#maxim-ai)
+- [n8n](#n8n)
 - [NanoClaw](#nanoclaw)
 - [nanocode](#nanocode)
 - [Nikke-DB Story/Roleplaying Generator](#nikke-db-storyroleplaying-generator)
@@ -507,6 +508,18 @@ Maxim is an agent simulation, evaluation, and observability platform that empowe
 `coding` `productivity` `research`
 
 [Documentation](https://www.getmaxim.ai/docs/settings/model-configuration#model-configuration)
+
+---
+
+### [n8n](https://n8n.io)
+
+<img src="./apps/n8n/logo.png" alt="n8n logo" width="64" height="64">
+
+AI agents and workflows you can see and control. Build visually, go deep with code, connect to anything. Every step of your agents' reasoning, traceable on the canvas. Deploy on your infrastructure or ours.
+
+`productivity` `other` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/n8n-io/n8n)
+
+[Documentation](https://docs.n8n.io/integrations/builtin/credentials/openrouter/)
 
 ---
 
