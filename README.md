@@ -25,6 +25,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 ## Table of Contents
 
 - [Aeon](#aeon)
+- [Agent QA](#agent-qa)
 - [Agent Swarm](#agent-swarm)
 - [Agent Zero](#agent-zero)
 - [Agent37](#agent37)
@@ -100,6 +101,18 @@ Autonomous agent framework that runs on GitHub Actions: cron-scheduled Markdown 
 `coding` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/aeonfun/aeon)
 
 [Documentation](https://github.com/aeonfun/aeon/blob/main/docs/harnesses.md)
+
+---
+
+### [Agent QA](https://github.com/vostride/agent-qa)
+
+<img src="./apps/agent-qa/logo.png" alt="Agent QA logo" width="64" height="64">
+
+Source-available QA agent for natural-language web and mobile tests. Bring an OpenRouter API key through its OpenAI-compatible provider and retain evidence and test memory across runs.
+
+`coding` `productivity`
+
+[Documentation](https://vostride.com/docs/agent-qa/quickstart#open-the-dashboard)
 
 ---
 

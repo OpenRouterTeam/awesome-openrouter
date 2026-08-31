@@ -27,6 +27,19 @@
     "dateAdded": "2026-08-16"
   },
   {
+    "slug": "agent-qa",
+    "name": "Agent QA",
+    "description": "Source-available QA agent for natural-language web and mobile tests. Bring an OpenRouter API key through its OpenAI-compatible provider and retain evidence and test memory across runs.",
+    "url": "https://github.com/vostride/agent-qa",
+    "docs": "https://vostride.com/docs/agent-qa/quickstart#open-the-dashboard",
+    "tags": [
+      "coding",
+      "productivity"
+    ],
+    "openSource": null,
+    "dateAdded": "2026-08-16"
+  },
+  {
     "slug": "agent-swarm",
     "name": "Agent Swarm",
     "description": "Coordination intelligence for AI coding agents. A lead delegates, Docker-isolated workers ship code, memory compounds across sessions. Workers run via OpenRouter — bring your own key to pick any model (default: Qwen3 Coder Flash).",
