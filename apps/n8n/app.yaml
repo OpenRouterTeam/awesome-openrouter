@@ -1,0 +1,9 @@
+name: "n8n"
+description: "AI agents and workflows you can see and control. Build visually, go deep with code, connect to anything. Every step of your agents' reasoning, traceable on the canvas. Deploy on your infrastructure or ours."
+url: "https://n8n.io"
+docs: "https://docs.n8n.io/integrations/builtin/credentials/openrouter/"
+tags:
+  - productivity
+  - other
+open_source: "https://github.com/n8n-io/n8n"
+date_added: "2026-08-27"
