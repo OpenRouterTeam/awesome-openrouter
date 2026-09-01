@@ -514,7 +514,7 @@ An open-source TypeScript framework for building AI-powered applications and age
 
 ### [Maxim AI](https://www.getmaxim.ai/)
 
-<img src="./apps/Maxim AI/logo.png" alt="Maxim AI logo" width="64" height="64">
+<img src="./apps/maxim-ai/logo.png" alt="Maxim AI logo" width="64" height="64">
 
 Maxim is an agent simulation, evaluation, and observability platform that empowers modern AI teams to deploy agents with quality, reliability, and speed.
 

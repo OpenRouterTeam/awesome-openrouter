@@ -1,19 +1,5 @@
 [
   {
-    "slug": "Maxim AI",
-    "name": "Maxim AI",
-    "description": "Maxim is an agent simulation, evaluation, and observability platform that empowers modern AI teams to deploy agents with quality, reliability, and speed.",
-    "url": "https://www.getmaxim.ai/",
-    "docs": "https://www.getmaxim.ai/docs/settings/model-configuration#model-configuration",
-    "tags": [
-      "coding",
-      "productivity",
-      "research"
-    ],
-    "openSource": null,
-    "dateAdded": "2026-02-05"
-  },
-  {
     "slug": "aeon",
     "name": "Aeon",
     "description": "Autonomous agent framework that runs on GitHub Actions: cron-scheduled Markdown skills, self-healing and fleet-replicating. Four of its six coding-agent harnesses (Codex, Pi, Vibe, Kimi) route through OpenRouter with your own API key; its LLM gateway can route Claude Code via OpenRouter too.",
@@ -460,6 +446,20 @@
     ],
     "openSource": "https://github.com/mastra-ai/mastra",
     "dateAdded": "2026-01-13"
+  },
+  {
+    "slug": "maxim-ai",
+    "name": "Maxim AI",
+    "description": "Maxim is an agent simulation, evaluation, and observability platform that empowers modern AI teams to deploy agents with quality, reliability, and speed.",
+    "url": "https://www.getmaxim.ai/",
+    "docs": "https://www.getmaxim.ai/docs/settings/model-configuration#model-configuration",
+    "tags": [
+      "coding",
+      "productivity",
+      "research"
+    ],
+    "openSource": null,
+    "dateAdded": "2026-02-05"
   },
   {
     "slug": "moltbot",
