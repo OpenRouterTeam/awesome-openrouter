@@ -1,0 +1,8 @@
+name: "Oriveo"
+description: "A multi-model AI chat app for iOS, Android, and web. Bring your own OpenRouter API key, switch models mid-conversation, track estimated cost per reply, and keep chats local-first with optional cross-device sync."
+url: "https://oriveoai.com"
+docs: "https://oriveoai.com/openrouter-client"
+tags:
+  - chat
+  - productivity
+date_added: "2026-09-01"
