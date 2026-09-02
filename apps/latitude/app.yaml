@@ -1,0 +1,9 @@
+name: "Latitude"
+description: "Open-source LLM observability and evaluation. Broadcast your OpenRouter traces to Latitude to search sessions, catch failing behaviors, and run evaluations on real production traffic. Bring your own OpenRouter key."
+url: "https://latitude.so"
+docs: "https://docs.latitude.so/telemetry/providers/openrouter"
+tags:
+  - productivity
+  - research
+open_source: "https://github.com/latitude-dev/latitude-llm"
+date_added: "2026-08-31"
