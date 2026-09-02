@@ -1,0 +1,9 @@
+name: "OpenMed Agent"
+description: "Terminal-native clinical agent for prior authorization, medical coding audit, and documentation, with reviewable output. Bring your own OpenRouter key to run any model against 93 medical tools and the OpenMed NER models."
+url: "https://agent.openmed.life"
+docs: "https://agent.openmed.life/docs/providers/#openrouter"
+tags:
+  - research
+  - productivity
+open_source: "https://github.com/openmed-labs/openmed-agent"
+date_added: "2026-09-02"
