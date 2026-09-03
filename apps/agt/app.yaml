@@ -1,0 +1,9 @@
+name: "Agt"
+description: "An agent framework that builds itself — a hand-written, zero-dependency multi-model agent engine (ReAct + MCP + Coze workflow execution + WebUI) with a built-in OpenRouter provider, BYO-key onboarding and X-Title attribution."
+url: "https://github.com/vgp7758/Agt"
+docs: "https://github.com/vgp7758/Agt#2-配置模型"
+tags:
+  - coding
+  - productivity
+open_source: "https://github.com/vgp7758/Agt"
+date_added: "2026-09-03"
