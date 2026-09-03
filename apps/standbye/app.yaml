@@ -1,0 +1,9 @@
+name: "Standbye"
+description: "Describe a team of AI agents and they keep working on your repo around the clock: checking in on a schedule, talking in channels, opening pull requests, asking you when a decision is yours. Bring your own OpenRouter key and give each agent its own model."
+url: "https://standbye.navid.tr"
+docs: "https://standbye.navid.tr/docs/openrouter/"
+tags:
+  - coding
+  - productivity
+open_source: "https://github.com/mirzaaghazadeh/StandBye"
+date_added: "2026-09-04"
