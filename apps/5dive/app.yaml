@@ -1,0 +1,8 @@
+name: "5dive"
+description: "Self-hosted agent runtime: run Claude Code, Codex, pi and other harnesses as always-on systemd services on your own box, each with its own memory, skills and Telegram channel. Bring your own OpenRouter key and pick the model per agent, then swap it live."
+url: "https://5dive.ai"
+docs: "https://blog.5dive.ai/blog/one-openrouter-key-any-model/"
+tags:
+  - coding
+open_source: "https://github.com/5dive-ai/5dive"
+date_added: "2026-08-25"
