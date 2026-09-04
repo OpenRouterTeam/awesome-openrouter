@@ -1,0 +1,8 @@
+name: "Forge Lab"
+description: "AI-powered development environment with multi-agent Brain Mode and a self-healing Audit Loop. 5 specialized AI agents build, test, and automatically fix full-stack projects in parallel, directly in the browser, then deploy with one click."
+url: "https://forgelab.one"
+docs: "https://forgelab.one/documentation#byok"
+tags:
+  - coding
+  - productivity
+date_added: "2026-08-26"
