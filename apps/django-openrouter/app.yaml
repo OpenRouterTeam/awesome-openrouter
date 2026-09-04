@@ -1,0 +1,8 @@
+name: "django-openrouter"
+description: "Reusable Django app that manages OpenRouter models, usage profiles, budgets and request logs from Django admin. Encrypted write-only API keys, model fallback chains, daily/monthly limits and spend tracking."
+url: "https://github.com/svalench/django-openrouter"
+docs: "https://github.com/svalench/django-openrouter#quickstart"
+tags:
+  - coding
+open_source: "https://github.com/svalench/django-openrouter"
+date_added: "2026-09-04"
