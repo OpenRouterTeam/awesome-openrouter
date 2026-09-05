@@ -1,0 +1,9 @@
+name: "whiskr"
+description: "Private, self-hosted AI chat interface with full conversation control, model and provider selection, multimodal output, tools and detailed usage statistics."
+url: "https://github.com/coalaura/whiskr"
+docs: "https://github.com/coalaura/whiskr#readme"
+tags:
+  - chat
+  - productivity
+open_source: "https://github.com/coalaura/whiskr"
+date_added: "2026-09-05"
