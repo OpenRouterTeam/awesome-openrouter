@@ -1,0 +1,10 @@
+name: "CodeDashBoard"
+description: "Lightweight C/GTK4 IDE: editor, terminals and an agent-based LLM chat on one dashboard, in ~128 MB of RAM. Bring your own OpenRouter key and reach the whole catalog — per-request cost, reasoning effort and tool calls from your own shells."
+url: "https://openrouter.ai/apps/url/https%3A%2F%2Fgithub.com%2FEric1212%2FSIEB-CodeDashBoard"
+docs: "https://github.com/Eric1212/SIEB-CodeDashBoard/blob/master/README.md"
+tags:
+  - coding
+  - chat
+  - productivity
+open_source: "https://github.com/Eric1212/SIEB-CodeDashBoard"
+date_added: "2026-09-06"
