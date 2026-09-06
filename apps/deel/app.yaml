@@ -1,0 +1,8 @@
+name: "deel"
+description: "A terminal coding agent with zero dependencies that talks to exactly one endpoint you choose — a local runtime, a private gateway, or OpenRouter with your own key. Shows on screen where it sends, every time it starts."
+url: "https://github.com/jysvai/deel-local-cli"
+docs: "https://github.com/jysvai/deel-local-cli/blob/main/docs/en/config.md#openrouter"
+tags:
+  - coding
+open_source: "https://github.com/jysvai/deel-local-cli"
+date_added: "2026-09-06"
