@@ -1,0 +1,9 @@
+name: "OpenBox"
+description: "Governance and observability for the OpenRouter Agent SDK. Every model call and tool run is checked against policy before it executes, recorded with its inputs and outputs, and sealed with the provider that actually served it, read back from OpenRouter."
+url: "https://www.openbox.ai"
+docs: "https://docs.openbox.ai/getting-started/openrouter"
+tags:
+  - coding
+  - other
+open_source: "https://github.com/OpenBox-AI/openbox-openrouter-sdk-ts"
+date_added: "2026-09-08"
