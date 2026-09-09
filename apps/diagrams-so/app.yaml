@@ -1,0 +1,8 @@
+name: "Diagrams.so"
+description: "Describe a system in plain text and get an architecture diagram back, exportable as .drawio, PNG or SVG. Bring your own OpenRouter key and pick any model on it. Works on any plan, including Free."
+url: "https://diagrams.so"
+docs: "https://diagrams.so/docs#use-openrouter"
+tags:
+  - coding
+  - productivity
+date_added: "2026-09-09"
