@@ -1,0 +1,9 @@
+name: "Page Assist"
+description: "An open-source browser extension that gives you a sidebar and web UI to chat with AI models from any webpage. Works with local models and OpenAI-compatible providers like OpenRouter using your own API key."
+url: "https://pageassist.xyz"
+docs: "https://docs.pageassist.xyz/providers/openai"
+tags:
+  - chat
+  - productivity
+open_source: "https://github.com/n4ze3m/page-assist"
+date_added: "2026-09-22"
