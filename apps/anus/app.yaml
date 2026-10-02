@@ -1,0 +1,8 @@
+name: "ANUS"
+description: "A free coding agent in your terminal. Every request goes to the smartest free model that is up today, and when one hits its limit, the next one takes the same request. Bring your own OpenRouter key (Gemini, Groq, Cerebras and Mistral keys work too)."
+url: "https://anus.dev"
+docs: "https://github.com/anus-dev/anus#first-run"
+tags:
+  - coding
+open_source: "https://github.com/anus-dev/anus"
+date_added: "2026-09-30"
