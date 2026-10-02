@@ -113,7 +113,7 @@ Autonomous agent framework that runs on GitHub Actions: cron-scheduled Markdown 
 
 <img src="./apps/agent-qa/logo.png" alt="Agent QA logo" width="64" height="64">
 
-Source-available QA agent for natural-language web and mobile tests. Bring an OpenRouter API key through its OpenAI-compatible provider and retain evidence and test memory across runs.
+Self-improving QA agent for natural-language web and mobile tests. Bring an OpenRouter API key through its OpenAI-compatible provider and retain evidence and test memory across runs.
 
 `coding` `productivity`
 
