@@ -1,0 +1,9 @@
+name: "RouterChat"
+description: "A native OpenRouter client for iPhone, iPad, Mac, Apple Watch, and CarPlay. Chat, compare responses, generate media, and use voice workflows with your own OpenRouter account or API key."
+url: "https://router-chat.com"
+docs: "https://router-chat.com/support/"
+tags:
+  - chat
+  - productivity
+  - creative
+date_added: "2026-09-04"
