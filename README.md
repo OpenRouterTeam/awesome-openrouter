@@ -54,6 +54,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [InternAgent](#internagent)
 - [Junie](#junie)
 - [Kilo Code](#kilo-code)
+- [Latitude](#latitude)
 - [Letta](#letta)
 - [LibreChat](#librechat)
 - [LlamaIndex](#llamaindex)
@@ -449,6 +450,18 @@ An AI-powered coding assistant for VS Code that supports multiple AI providers a
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/Kilo-Org/kilocode)
 
 [Documentation](https://kilo.ai/docs/providers/openrouter)
+
+---
+
+### [Latitude](https://latitude.so)
+
+<img src="./apps/latitude/logo.png" alt="Latitude logo" width="64" height="64">
+
+Open-source LLM observability and evaluation. Broadcast your OpenRouter traces to Latitude to search sessions, catch failing behaviors, and run evaluations on real production traffic. Bring your own OpenRouter key.
+
+`productivity` `research` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/latitude-dev/latitude-llm)
+
+[Documentation](https://docs.latitude.so/telemetry/providers/openrouter)
 
 ---
 
