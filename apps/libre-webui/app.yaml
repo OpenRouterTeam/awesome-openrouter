@@ -1,0 +1,9 @@
+name: "Libre WebUI"
+description: "Self-hosted, local-first AI workspace. Chat with Ollama and cloud models in one place, with documents, tools, agents and a Work mode. Paste your OpenRouter key in Settings and every OpenRouter model appears next to your local ones."
+url: "https://librewebui.org"
+docs: "https://docs.librewebui.org/provider-connections"
+tags:
+  - chat
+  - productivity
+open_source: "https://github.com/libre-webui/libre-webui"
+date_added: "2026-09-13"
