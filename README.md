@@ -70,6 +70,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [OpenClaw (Moltbot)](#openclaw-moltbot)
 - [OpenRouter MCP Multimodal](#openrouter-mcp-multimodal)
 - [openrouter-rs](#openrouter-rs)
+- [Oriveo](#oriveo)
 - [Ottex](#ottex)
 - [PostHog](#posthog)
 - [PostQode](#postqode)
@@ -642,6 +643,18 @@ Community-maintained Rust SDK and companion CLI for OpenRouter, with typed clien
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/realmorrisliu/openrouter-rs)
 
 [Documentation](https://github.com/realmorrisliu/openrouter-rs/blob/main/docs/community/awesome-openrouter/README.md)
+
+---
+
+### [Oriveo](https://oriveoai.com)
+
+<img src="./apps/oriveo/logo.png" alt="Oriveo logo" width="64" height="64">
+
+A multi-model AI chat app for iOS, Android, and web. Bring your own OpenRouter API key, switch models mid-conversation, track estimated cost per reply, and keep chats local-first with optional cross-device sync.
+
+`chat` `productivity`
+
+[Documentation](https://oriveoai.com/openrouter-client)
 
 ---
 

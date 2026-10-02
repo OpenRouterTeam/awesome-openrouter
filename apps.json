@@ -591,6 +591,19 @@
     "dateAdded": "2026-04-20"
   },
   {
+    "slug": "oriveo",
+    "name": "Oriveo",
+    "description": "A multi-model AI chat app for iOS, Android, and web. Bring your own OpenRouter API key, switch models mid-conversation, track estimated cost per reply, and keep chats local-first with optional cross-device sync.",
+    "url": "https://oriveoai.com",
+    "docs": "https://oriveoai.com/openrouter-client",
+    "tags": [
+      "chat",
+      "productivity"
+    ],
+    "openSource": null,
+    "dateAdded": "2026-09-01"
+  },
+  {
     "slug": "ottex",
     "name": "Ottex",
     "description": "WisprFlow + Raycast AI shortcuts but with OpenRouter BYOK. Dictate emails, Slack messages, Claude Code prompts and more. Auto-formats based on the app you're working with.",
