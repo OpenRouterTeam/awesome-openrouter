@@ -130,6 +130,19 @@
     "dateAdded": "2025-01-15"
   },
   {
+    "slug": "atomcode",
+    "name": "AtomCode",
+    "description": "Open-source, terminal-based AI coding agent — an alternative to Claude Code. Connect any LLM, including OpenRouter with your own API key, to edit code, run commands, and verify changes autonomously. Built in Rust.",
+    "url": "https://atomcode.atomgit.com/",
+    "docs": "https://atomgit.com/atomgit_atomcode/atomcode#multi-provider-support",
+    "tags": [
+      "coding",
+      "productivity"
+    ],
+    "openSource": "https://atomgit.com/atomgit_atomcode/atomcode",
+    "dateAdded": "2026-08-26"
+  },
+  {
     "slug": "atomic-agent",
     "name": "Atomic Agent",
     "description": "A local-first AI agent for the terminal. Runs open-weight models on your own machine, and routes to OpenRouter with your own key when a task needs a frontier model.",

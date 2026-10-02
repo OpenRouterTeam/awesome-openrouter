@@ -34,6 +34,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [AionUi](#aionui)
 - [All API Hub](#all-api-hub)
 - [analystOS](#analystos)
+- [AtomCode](#atomcode)
 - [Atomic Agent](#atomic-agent)
 - [Autohand Code CLI](#autohand-code-cli)
 - [Aventura](#aventura)
@@ -211,6 +212,18 @@ Web UI for AI-powered research + optional Notion automation. Upload docs, scrape
 `research` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/sheeki03/analystOS)
 
 [Documentation](https://github.com/sheeki03/analystOS#readme)
+
+---
+
+### [AtomCode](https://atomcode.atomgit.com/)
+
+<img src="./apps/atomcode/logo.png" alt="AtomCode logo" width="64" height="64">
+
+Open-source, terminal-based AI coding agent — an alternative to Claude Code. Connect any LLM, including OpenRouter with your own API key, to edit code, run commands, and verify changes autonomously. Built in Rust.
+
+`coding` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://atomgit.com/atomgit_atomcode/atomcode)
+
+[Documentation](https://atomgit.com/atomgit_atomcode/atomcode#multi-provider-support)
 
 ---
 
