@@ -79,6 +79,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Quests](#quests)
 - [Roboflow Workflows](#roboflow-workflows)
 - [Roo Code](#roo-code)
+- [RouterChat](#routerchat)
 - [Shakespeare](#shakespeare)
 - [ShibaClaw](#shibaclaw)
 - [SillyTavern](#sillytavern)
@@ -752,6 +753,18 @@ An AI-powered autonomous coding agent that lives in your editor.
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/RooCodeInc/Roo-Code)
 
 [Documentation](https://docs.roocode.com/providers/openrouter)
+
+---
+
+### [RouterChat](https://router-chat.com)
+
+<img src="./apps/routerchat/logo.png" alt="RouterChat logo" width="64" height="64">
+
+A native OpenRouter client for iPhone, iPad, Mac, Apple Watch, and CarPlay. Chat, compare responses, generate media, and use voice workflows with your own OpenRouter account or API key.
+
+`chat` `productivity` `creative`
+
+[Documentation](https://router-chat.com/support/)
 
 ---
 
