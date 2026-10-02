@@ -73,6 +73,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [openrouter-rs](#openrouter-rs)
 - [Oriveo](#oriveo)
 - [Ottex](#ottex)
+- [Page Assist](#page-assist)
 - [PostHog](#posthog)
 - [PostQode](#postqode)
 - [Project AIRI](#project-airi)
@@ -681,6 +682,18 @@ WisprFlow + Raycast AI shortcuts but with OpenRouter BYOK. Dictate emails, Slack
 `productivity`
 
 [Documentation](https://ottex.ai/docs)
+
+---
+
+### [Page Assist](https://pageassist.xyz)
+
+<img src="./apps/page-assist/logo.png" alt="Page Assist logo" width="64" height="64">
+
+An open-source browser extension that gives you a sidebar and web UI to chat with AI models from any webpage. Works with local models and OpenAI-compatible providers like OpenRouter using your own API key.
+
+`chat` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/n4ze3m/page-assist)
+
+[Documentation](https://docs.pageassist.xyz/providers/openai)
 
 ---
 
