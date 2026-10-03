@@ -1,0 +1,9 @@
+name: "OpenLaut"
+description: "A dashboard for AI web designers. Bring your OpenRouter key to chat with any model, break generated HTML into selectable sections, build client briefs, and convert images to WebP. Runs fully in your browser."
+url: "https://github.com/mo-takovic/OpenLaut"
+docs: "https://github.com/mo-takovic/OpenLaut#how-to-use"
+tags:
+  - creative
+  - coding
+open_source: "https://github.com/mo-takovic/OpenLaut"
+date_added: "2026-10-03"
