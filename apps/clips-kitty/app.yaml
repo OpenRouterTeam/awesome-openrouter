@@ -1,0 +1,8 @@
+name: "Clips Kitty"
+description: "Free, open-source desktop app that turns long videos and streams into vertical clips with captions. It runs locally by default; sign in with OpenRouter to run the clip scoring and transcription on a model you choose."
+url: "https://colingpt9.github.io/clips-studio/"
+docs: "https://github.com/ColinGPT9/clips-studio/blob/main/docs/AI-BACKENDS.md#2-openrouter-recommended-cloud-ai"
+tags:
+  - creative
+open_source: "https://github.com/ColinGPT9/clips-studio"
+date_added: "2026-10-01"
