@@ -1,0 +1,9 @@
+name: "zipcoin chat"
+description: "Private AI chat on OpenRouter models with no account and no key to bring: credits come from a zipcoin privacy-pool note and are spent through zkAPI zero-knowledge proofs, so usage can't be tied to a wallet or a person. Short-lived OpenRouter keys per session."
+url: "https://chat.zipcoin.cash"
+docs: "https://chat.zipcoin.cash/privacy#openrouter"
+tags:
+  - chat
+  - research
+open_source: "https://github.com/zipcoincash/zipcoin-chat"
+date_added: "2026-10-03"
