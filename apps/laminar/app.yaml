@@ -1,0 +1,9 @@
+name: "Laminar"
+description: "Open-source observability for AI agents. Trace every OpenRouter call with prompts, model, tokens, cost and latency. Works with your own OpenRouter key."
+url: "https://laminar.sh"
+docs: "https://laminar.sh/docs/integrations/openrouter"
+tags:
+  - productivity
+  - research
+open_source: "https://github.com/lmnr-ai/lmnr"
+date_added: "2026-10-07"
