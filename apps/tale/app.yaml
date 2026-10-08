@@ -1,0 +1,9 @@
+name: "Tale"
+description: "Tale gives people and AI agents shared projects, tasks, files and instructions. Connect your own OpenRouter API key for chat and configured agent runs; assigning a task alone does not start execution."
+url: "https://tale.dev"
+docs: "https://docs.tale.dev/platform/admin/providers"
+tags:
+  - "chat"
+  - "productivity"
+open_source: "https://github.com/tale-project/tale"
+date_added: "2026-10-08"
