@@ -1,0 +1,8 @@
+name: "NeuroSquad"
+description: "Free desktop app for running coding-agent CLIs side by side, each in a live terminal. Bring your OpenRouter key and pick a model per agent in 19 CLIs (Claude Code, Codex, OpenCode...). Open-source terminal version: nsq (npx neurosquad)."
+url: "https://neurosquad.ai"
+docs: "https://docs.neurosquad.ai/en/providers/openrouter"
+tags:
+  - coding
+open_source: "https://github.com/glmn-ai/neurosquad-cli"
+date_added: "2026-10-09"
