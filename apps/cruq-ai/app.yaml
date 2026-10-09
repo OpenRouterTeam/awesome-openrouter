@@ -1,0 +1,8 @@
+name: "Cruq AI"
+description: "A platform for building and running AI agents on your own model keys. Connect your OpenRouter key, build an agent with tools and a knowledge base, and run it over the API, a hosted web app, WhatsApp, Slack or voice."
+url: "https://cruq.ai"
+docs: "https://docs.cruq.ai/docs/concepts/models"
+tags:
+  - productivity
+  - chat
+date_added: "2026-10-09"
