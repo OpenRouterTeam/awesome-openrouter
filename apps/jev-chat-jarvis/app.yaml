@@ -1,0 +1,9 @@
+name: "Jev for WhatsApp"
+description: "Open-source Android reply copilot for WhatsApp. It reads the chat on screen, uses your OpenRouter key to judge intent and risk, drafts two replies, and fills the one you pick into the message box. You press send. Not affiliated with WhatsApp."
+url: "https://chatjevs.com"
+docs: "https://github.com/jev-chat/jev-chat-jarvis/blob/main/global/README.md#quick-start"
+tags:
+  - chat
+  - productivity
+open_source: "https://github.com/jev-chat/jev-chat-jarvis"
+date_added: "2026-10-12"
