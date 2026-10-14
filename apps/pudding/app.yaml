@@ -1,0 +1,9 @@
+name: "Pudding"
+description: "Free AI workspace for macOS and Windows. Bring your own OpenRouter API key to chat with models, work with local files, automate browser tasks, and create documents and tables in Studio."
+url: "https://pudding.teatak.com/"
+docs: "https://github.com/teatak/pudding-core/blob/main/docs/provider-presets.md"
+tags:
+  - chat
+  - productivity
+  - coding
+date_added: "2026-10-14"
