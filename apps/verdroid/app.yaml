@@ -1,0 +1,8 @@
+name: "Verdroid"
+description: "Open-source Android AI agent that uses tools on your phone: web search, Termux, Shizuku shell, Accessibility control, files, PDFs, Git, MCP and crypto backtesting. Bring your own OpenRouter key; tuned for free models."
+url: "https://github.com/chr243/Verdroid"
+docs: "https://github.com/chr243/Verdroid#readme"
+tags:
+  - productivity
+open_source: "https://github.com/chr243/Verdroid"
+date_added: "2026-10-14"
