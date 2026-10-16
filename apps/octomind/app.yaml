@@ -1,7 +1,7 @@
 name: "Octomind"
 description: "Session-based AI development assistant CLI. MCP tool execution, multi-provider support via OpenRouter, roles, skills, and agent orchestration — all from the terminal."
 url: "https://octomind.run"
-docs: "https://github.com/muvon/octomind#model-access"
+docs: "https://octomind.run/docs/usage/04-providers#bring-your-own-keys"
 tags:
   - coding
   - productivity
