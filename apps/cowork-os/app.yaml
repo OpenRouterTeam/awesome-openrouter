@@ -1,0 +1,10 @@
+name: "CoWork OS"
+description: "Open-source desktop agent for macOS and Windows where every action is visible and approvable. Sign in with OpenRouter or bring your own key, then run coding, browser, document and inbox tasks with approvals, local memory and scheduled bots."
+url: "https://coworkosapp.com"
+docs: "https://coworkosapp.com/docs/providers/#openrouter"
+tags:
+  - productivity
+  - coding
+  - chat
+open_source: "https://github.com/CoWork-OS/CoWork-OS"
+date_added: "2026-10-17"
