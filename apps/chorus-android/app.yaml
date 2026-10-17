@@ -1,0 +1,8 @@
+name: "Chorus – All AI, One Place (Android)"
+description: "Android BYOK workspace with an OpenRouter provider preset. Chat with selected models, compare answers to the same prompt, and organize related work in projects and notes."
+url: "https://play.google.com/store/apps/details?id=com.aihub.app"
+docs: "https://github.com/OpenRouterTeam/awesome-openrouter/blob/main/apps/chorus-android/setup.md"
+tags:
+  - chat
+  - productivity
+date_added: "2026-10-17"
