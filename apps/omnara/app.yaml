@@ -1,0 +1,10 @@
+name: "Omnara"
+description: "The open-source managed agent platform: run durable AI agents with any model and any machine, from sandboxes to your own laptop, with MCP, skills, subagents, and human approvals. A self-hostable alternative to Claude Managed Agents and OpenAI's Agents API."
+url: "https://www.omnara.com"
+docs: "https://docs.omnara.com/organization/model-providers"
+tags:
+  - productivity
+  - chat
+  - coding
+open_source: "https://github.com/omnara-ai/omnara"
+date_added: "2026-10-19"
