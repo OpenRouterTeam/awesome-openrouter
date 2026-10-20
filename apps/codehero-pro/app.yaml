@@ -1,1 +1,8 @@
-
+name: "CodeHero PRO"
+description: "Self-hosted AI software factory for business software: it interviews you for the rules, plans, builds with AI agents, has the work checked by a second AI, then hosts and maintains it on your own server. Bring your own OpenRouter key to run its agents on OpenRouter models."
+url: "https://codeheropro.ai"
+docs: "https://codeheropro.ai/openrouter.html"
+tags:
+  - coding
+  - productivity
+date_added: "2026-10-20"
