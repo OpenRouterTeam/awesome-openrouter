@@ -1,0 +1,10 @@
+name: "AI Search"
+description: "AI Search adds semantic search over Markdown notes and code to VS Code and VSCodium, with OpenRouter embeddings and optional reranking. Search an existing folder of notes by meaning from the editor sidebar."
+url: "https://marketplace.visualstudio.com/items?itemName=jao.ai-semantic-search"
+docs: "https://github.com/cvladan/vscode-ai-search#configure-it"
+tags:
+  - productivity
+  - research
+  - coding
+open_source: "https://github.com/cvladan/vscode-ai-search"
+date_added: "2026-09-12"
