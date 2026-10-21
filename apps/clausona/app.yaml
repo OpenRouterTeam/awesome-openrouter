@@ -1,0 +1,9 @@
+name: "clausona"
+description: "CLI for switching Claude Code and Codex accounts while keeping one conversation history. An API profile runs Claude Code on OpenRouter with your own key, and a route can pick it next to your subscription accounts under a spend limit read from OpenRouter."
+url: "https://larcane97.github.io/clausona/"
+docs: "https://github.com/larcane97/clausona/blob/main/docs/api-profiles.md"
+tags:
+  - coding
+  - productivity
+open_source: "https://github.com/larcane97/clausona"
+date_added: "2026-10-15"
