@@ -1,0 +1,9 @@
+name: "GeekLink Jev Subtitle Translator"
+description: "Open-source SRT translator and quality-control tool. Bring an OpenRouter key to translate subtitles with structured output and use Jev to flag lines that may need human review."
+url: "https://github.com/GeekLinkDev/jev-subtitle-translator"
+docs: "https://github.com/GeekLinkDev/jev-subtitle-translator#quick-start"
+tags:
+  - productivity
+  - creative
+open_source: "https://github.com/GeekLinkDev/jev-subtitle-translator"
+date_added: "2026-09-23"
