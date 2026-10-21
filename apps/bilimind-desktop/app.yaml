@@ -1,0 +1,8 @@
+name: "BiliMind Desktop"
+description: "Open-source desktop app that turns your own slides, past papers or notes into a narrated course, with quiz answers checked against your files. Bring your own OpenRouter key in Settings."
+url: "https://github.com/Odilient/bilimind-desktop"
+docs: "https://github.com/Odilient/bilimind-desktop/blob/main/docs/DEVELOPERS.md#ai-providers-and-the-config-file"
+tags:
+  - productivity
+open_source: "https://github.com/Odilient/bilimind-desktop"
+date_added: "2026-10-21"
