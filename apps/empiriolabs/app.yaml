@@ -1,0 +1,8 @@
+name: "EmpirioLabs AI"
+description: "EmpirioLabs AI is a specialized AI model hosting platform. Its managed OpenClaw and Hermes agents live in Telegram, Discord, Slack and other chat apps, run code and browse the web. Sign in with OpenRouter or paste an API key, and every agent model call bills to your own OpenRouter account."
+url: "https://empiriolabs.ai/hosted-agents"
+docs: "https://docs.empiriolabs.ai/hosted-agents#use-your-openrouter-account"
+tags:
+  - productivity
+  - chat
+date_added: "2026-09-23"
