@@ -1,0 +1,8 @@
+name: "OpenClaw Launch"
+description: "Managed hosting for OpenClaw and Hermes Agent. Deploy a personal AI agent to Telegram, Discord, WhatsApp and more in about a minute, then run it on your own OpenRouter key or on included credits."
+url: "https://openclawlaunch.com"
+docs: "https://openclawlaunch.com/guides/openclaw-openrouter"
+tags:
+  - chat
+  - productivity
+date_added: "2026-10-21"
