@@ -1,0 +1,8 @@
+name: "Alvin Bot"
+description: "Self-hosted autonomous AI agent for Telegram, Slack, Discord, WhatsApp, Signal, a terminal TUI and a web dashboard. Uses OpenRouter with your own key for 500+ models, with automatic failover between providers and tool calling even on models without native function calling."
+url: "https://alvin.alev-b.com"
+docs: "https://www.npmjs.com/package/alvin-bot"
+tags:
+  - chat
+  - productivity
+date_added: "2026-08-29"
