@@ -1,0 +1,9 @@
+name: "Jev Social"
+description: "Local-first social research agent. Jev selects typed operations through OpenRouter while socai executes them in the user's Chrome, streaming Instagram, TikTok, and LinkedIn evidence into cards, a complete table, and a cited report."
+url: "https://socai-io.github.io/jev-social/"
+docs: "https://github.com/socai-io/jev-social#run-it"
+tags:
+  - research
+  - productivity
+open_source: "https://github.com/socai-io/jev-social"
+date_added: "2026-09-20"
