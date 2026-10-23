@@ -1,6 +1,6 @@
 name: "Aeon"
 description: "Autonomous agent framework that runs on GitHub Actions: cron-scheduled Markdown skills, self-healing and fleet-replicating. Four of its six coding-agent harnesses (Codex, Pi, Vibe, Kimi) route through OpenRouter with your own API key; its LLM gateway can route Claude Code via OpenRouter too."
-url: "https://github.com/aeonfun/aeon"
+url: "https://www.aeon.fun"
 docs: "https://github.com/aeonfun/aeon/blob/main/docs/harnesses.md"
 tags:
   - coding
