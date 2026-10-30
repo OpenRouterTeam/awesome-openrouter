@@ -1,0 +1,8 @@
+name: "CodeAF"
+description: "Open-source software factory for open models. One terminal window for every project: a request becomes parallel tasks in separate copies of the repo, checked and merged when they pass. Single Go binary, Apache-2.0."
+url: "https://agentfield.ai/codeaf"
+docs: "https://agentfield.ai/docs/codeaf/connections"
+tags:
+  - coding
+open_source: "https://github.com/Agent-Field/CodeAF"
+date_added: "2026-10-30"
