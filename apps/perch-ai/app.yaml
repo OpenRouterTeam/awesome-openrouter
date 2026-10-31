@@ -1,0 +1,9 @@
+name: "Perch AI"
+description: "A team of AI agents that finishes the work. Perch plans the job, runs helper agents in parallel, checks their findings and cites every claim, on the web, on your desktop and in your terminal. Bring your own OpenRouter key on any plan, including the free one."
+url: "https://perchai.app"
+docs: "https://www.perchai.app/docs/using-perch/bring-your-own-key"
+tags:
+  - coding
+  - productivity
+  - research
+date_added: "2026-10-31"
