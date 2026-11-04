@@ -1,0 +1,10 @@
+name: "Synproof Syntropy"
+description: "Deterministic 5-sieve dialectical verification engine, Small Worlds axiom library, and Axiomat compiler that formally proves AI claims using OpenRouter models."
+url: "https://synproof.ai"
+docs: "https://synproof.ai/docs/openrouter"
+tags:
+  - coding
+  - productivity
+  - research
+open_source: "https://github.com/macek166/synproof-syntropy"
+date_added: "2026-11-04"
