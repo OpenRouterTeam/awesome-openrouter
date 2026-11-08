@@ -1,0 +1,9 @@
+name: "Molfar System"
+description: "Free Android app for AI chats and meetings of several models at once: each answers in its own role, an orchestrator compares the answers, a secretary writes the minutes. Bring your own OpenRouter key; no account, no server of ours."
+url: "https://molfar.nova-hata.com"
+docs: "https://molfar.nova-hata.com/faq#ai_provider_openrouter"
+tags:
+  - chat
+  - productivity
+  - research
+date_added: "2026-11-07"
