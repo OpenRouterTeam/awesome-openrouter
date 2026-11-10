@@ -1,0 +1,9 @@
+name: "QVeris Agent Toolkit"
+description: "Open-source Python agent toolkit that connects OpenRouter models to professional data and tools. Bring your own OpenRouter API key and endpoint to run research workflows with tool discovery and execution."
+url: "https://qveris.ai/"
+docs: "https://github.com/QVerisAI/qveris-agent-toolkit/blob/main/docs/en-US/python-sdk.md#the-agent"
+tags:
+  - research
+  - productivity
+open_source: "https://github.com/QVerisAI/qveris-agent-toolkit"
+date_added: "2026-10-30"
