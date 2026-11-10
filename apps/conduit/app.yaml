@@ -1,0 +1,9 @@
+name: "Conduit"
+description: "Free, open-source desktop app for your OpenRouter key. Chat with any model, use MCP tools, ask your documents, build slides, apps and workflows, with conversations stored on your own disk."
+url: "https://conduitllm.com"
+docs: "https://conduitllm.com/providers/openrouter.html"
+tags:
+  - chat
+  - productivity
+open_source: "https://github.com/runningpixels/conduit"
+date_added: "2026-10-28"
