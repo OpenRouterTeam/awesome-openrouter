@@ -1,0 +1,7 @@
+name: "iolys"
+description: "AI coding assistant for C# and .NET in Visual Studio 2026. Bring your own OpenRouter API key to discover models, use workspace and MCP tools, attach images with supported models, and track credits and conversation costs."
+url: "https://getiolys.com"
+docs: "https://getiolys.com/providers/openrouter"
+tags:
+  - coding
+date_added: "2026-09-22"
