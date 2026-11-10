@@ -695,6 +695,20 @@
     "dateAdded": "2026-01-14"
   },
   {
+    "slug": "ouroboros",
+    "name": "Ouroboros",
+    "description": "An open-source agent with persistent memory that works on projects and can improve its own code through review. Connect your OpenRouter key, choose a model, and use the desktop app or headless CLI.",
+    "url": "https://ouroboros-agent.ai/",
+    "docs": "https://github.com/razzant/ouroboros/blob/main/docs/architecture/07-configuration.md#default-settings",
+    "tags": [
+      "coding",
+      "productivity",
+      "research"
+    ],
+    "openSource": "https://github.com/razzant/ouroboros",
+    "dateAdded": "2026-10-28"
+  },
+  {
     "slug": "page-assist",
     "name": "Page Assist",
     "description": "An open-source browser extension that gives you a sidebar and web UI to chat with AI models from any webpage. Works with local models and OpenAI-compatible providers like OpenRouter using your own API key.",
@@ -937,6 +951,19 @@
     ],
     "openSource": "https://github.com/ArtificialAnalysis/Stirrup",
     "dateAdded": "2026-01-15"
+  },
+  {
+    "slug": "superbot",
+    "name": "Superbot",
+    "description": "Your own AI agent: anything you can do on your computer, it can do, fast, and it runs your recurring tasks on a schedule across all your devices. Download at superbot.gg/download. Bring your own OpenRouter key or use ours.",
+    "url": "https://superbot.gg",
+    "docs": "https://superbot.gg/docs#external-apis",
+    "tags": [
+      "productivity",
+      "chat"
+    ],
+    "openSource": null,
+    "dateAdded": "2026-10-22"
   },
   {
     "slug": "surfmind",

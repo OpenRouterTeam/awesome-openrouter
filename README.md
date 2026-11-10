@@ -78,6 +78,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [openrouter-rs](#openrouter-rs)
 - [Oriveo](#oriveo)
 - [Ottex](#ottex)
+- [Ouroboros](#ouroboros)
 - [Page Assist](#page-assist)
 - [Perch AI](#perch-ai)
 - [Pixeltable](#pixeltable)
@@ -97,6 +98,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Speakeasy](#speakeasy)
 - [Spokenly](#spokenly)
 - [Stirrup](#stirrup)
+- [Superbot](#superbot)
 - [SurfMind](#surfmind)
 - [TraceRoot](#traceroot)
 - [TypingMind](#typingmind)
@@ -754,6 +756,18 @@ WisprFlow + Raycast AI shortcuts but with OpenRouter BYOK. Dictate emails, Slack
 
 ---
 
+### [Ouroboros](https://ouroboros-agent.ai/)
+
+<img src="./apps/ouroboros/logo.png" alt="Ouroboros logo" width="64" height="64">
+
+An open-source agent with persistent memory that works on projects and can improve its own code through review. Connect your OpenRouter key, choose a model, and use the desktop app or headless CLI.
+
+`coding` `productivity` `research` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/razzant/ouroboros)
+
+[Documentation](https://github.com/razzant/ouroboros/blob/main/docs/architecture/07-configuration.md#default-settings)
+
+---
+
 ### [Page Assist](https://pageassist.xyz)
 
 <img src="./apps/page-assist/logo.png" alt="Page Assist logo" width="64" height="64">
@@ -979,6 +993,18 @@ A lightweight framework for building agents. Bring your own OpenRouter key and u
 `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/ArtificialAnalysis/Stirrup)
 
 [Documentation](https://stirrup.artificialanalysis.ai/)
+
+---
+
+### [Superbot](https://superbot.gg)
+
+<img src="./apps/superbot/logo.png" alt="Superbot logo" width="64" height="64">
+
+Your own AI agent: anything you can do on your computer, it can do, fast, and it runs your recurring tasks on a schedule across all your devices. Download at superbot.gg/download. Bring your own OpenRouter key or use ours.
+
+`productivity` `chat`
+
+[Documentation](https://superbot.gg/docs#external-apis)
 
 ---
 
