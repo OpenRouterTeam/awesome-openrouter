@@ -75,6 +75,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Octomind](#octomind)
 - [Omnara](#omnara)
 - [OpenClaw (Moltbot)](#openclaw-moltbot)
+- [OpenRouter CLI](#openrouter-cli)
 - [OpenRouter MCP Multimodal](#openrouter-mcp-multimodal)
 - [openrouter-rs](#openrouter-rs)
 - [Oriveo](#oriveo)
@@ -718,6 +719,18 @@ A personal AI assistant you run on your own devices. Connects to WhatsApp, Teleg
 `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/openclaw/openclaw)
 
 [Documentation](https://docs.openclaw.ai/providers/openrouter)
+
+---
+
+### [OpenRouter CLI](https://github.com/aaronjmars/openroutercli)
+
+<img src="./apps/openrouter-cli/logo.png" alt="OpenRouter CLI logo" width="64" height="64">
+
+Unofficial CLI for every OpenRouter API endpoint. Browser-based OAuth login, inference, model discovery, analytics, benchmarks, and management, with pipeable --json output for humans and LLM agents.
+
+`coding` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/aaronjmars/openroutercli)
+
+[Documentation](https://github.com/aaronjmars/openroutercli#quick-start)
 
 ---
 
