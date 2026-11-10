@@ -1,0 +1,7 @@
+name: "orbench"
+description: "Desktop app to benchmark LLMs on your own tasks before switching models: quality scored on your rubric, latency, and real cost per answer across any OpenRouter model."
+url: "https://orbench.com"
+docs: "https://orbench.com/docs"
+tags:
+  - productivity
+date_added: "2026-10-29"
