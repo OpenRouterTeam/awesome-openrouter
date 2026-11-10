@@ -104,6 +104,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Superbot](#superbot)
 - [SurfMind](#surfmind)
 - [TraceRoot](#traceroot)
+- [twinny](#twinny)
 - [TypingMind](#typingmind)
 - [ViralMint](#viralmint)
 - [VT Code](#vt-code)
@@ -1068,6 +1069,18 @@ Trace and debug AI agents with TraceRoot. Bring your own OpenRouter API key to c
 `coding`
 
 [Documentation](https://traceroot.ai/docs/ai-agent/byok)
+
+---
+
+### [twinny](https://twinny.dev)
+
+<img src="./apps/twinny/logo.png" alt="twinny logo" width="64" height="64">
+
+Free, open-source VS Code extension for code completion, chat, inline edit and code review. Bring your own OpenRouter key for chat and fill-in-the-middle completion.
+
+`coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/twinnydotdev/twinny)
+
+[Documentation](https://docs.twinny.dev/providers/hosted-apis/)
 
 ---
 
