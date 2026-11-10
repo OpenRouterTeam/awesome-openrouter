@@ -59,6 +59,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Laminar](#laminar)
 - [Latitude](#latitude)
 - [Letta](#letta)
+- [Libre WebUI](#libre-webui)
 - [LibreChat](#librechat)
 - [LlamaIndex](#llamaindex)
 - [Llumen](#llumen)
@@ -519,6 +520,18 @@ Letta Code is a fully open-source harness for creating stateful agents with fron
 `coding` `productivity` `research` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/letta-ai/letta-code)
 
 [Documentation](https://docs.letta.com/configuration/models)
+
+---
+
+### [Libre WebUI](https://librewebui.org)
+
+<img src="./apps/libre-webui/logo.png" alt="Libre WebUI logo" width="64" height="64">
+
+Self-hosted, local-first AI workspace. Chat with Ollama and cloud models in one place, with documents, tools, agents and a Work mode. Paste your OpenRouter key in Settings and every OpenRouter model appears next to your local ones.
+
+`chat` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/libre-webui/libre-webui)
+
+[Documentation](https://docs.librewebui.org/provider-connections)
 
 ---
 

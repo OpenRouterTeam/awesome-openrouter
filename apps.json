@@ -452,6 +452,19 @@
     "dateAdded": "2026-08-23"
   },
   {
+    "slug": "libre-webui",
+    "name": "Libre WebUI",
+    "description": "Self-hosted, local-first AI workspace. Chat with Ollama and cloud models in one place, with documents, tools, agents and a Work mode. Paste your OpenRouter key in Settings and every OpenRouter model appears next to your local ones.",
+    "url": "https://librewebui.org",
+    "docs": "https://docs.librewebui.org/provider-connections",
+    "tags": [
+      "chat",
+      "productivity"
+    ],
+    "openSource": "https://github.com/libre-webui/libre-webui",
+    "dateAdded": "2026-09-13"
+  },
+  {
     "slug": "librechat",
     "name": "LibreChat",
     "description": "An open-source chat application for all your AI conversations, compatible with any AI provider.",
