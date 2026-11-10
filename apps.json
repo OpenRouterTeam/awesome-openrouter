@@ -296,6 +296,19 @@
     "dateAdded": "2026-10-30"
   },
   {
+    "slug": "conduit",
+    "name": "Conduit",
+    "description": "Free, open-source desktop app for your OpenRouter key. Chat with any model, use MCP tools, ask your documents, build slides, apps and workflows, with conversations stored on your own disk.",
+    "url": "https://conduitllm.com",
+    "docs": "https://conduitllm.com/providers/openrouter.html",
+    "tags": [
+      "chat",
+      "productivity"
+    ],
+    "openSource": "https://github.com/runningpixels/conduit",
+    "dateAdded": "2026-10-28"
+  },
+  {
     "slug": "cowork-os",
     "name": "CoWork OS",
     "description": "Open-source desktop agent for macOS and Windows where every action is visible and approvable. Sign in with OpenRouter or bring your own key, then run coding, browser, document and inbox tasks with approvals, local memory and scheduled bots.",

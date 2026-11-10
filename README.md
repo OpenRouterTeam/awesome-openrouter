@@ -47,6 +47,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Cline](#cline)
 - [Cloudflare AI Gateway](#cloudflare-ai-gateway)
 - [CodeAF](#codeaf)
+- [Conduit](#conduit)
 - [CoWork OS](#cowork-os)
 - [Dexto](#dexto)
 - [Fud AI](#fud-ai)
@@ -381,6 +382,18 @@ Open-source software factory for open models. One terminal window for every proj
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/Agent-Field/CodeAF)
 
 [Documentation](https://agentfield.ai/docs/codeaf/connections)
+
+---
+
+### [Conduit](https://conduitllm.com)
+
+<img src="./apps/conduit/logo.png" alt="Conduit logo" width="64" height="64">
+
+Free, open-source desktop app for your OpenRouter key. Chat with any model, use MCP tools, ask your documents, build slides, apps and workflows, with conversations stored on your own disk.
+
+`chat` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/runningpixels/conduit)
+
+[Documentation](https://conduitllm.com/providers/openrouter.html)
 
 ---
 
