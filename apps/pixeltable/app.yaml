@@ -1,0 +1,8 @@
+name: "Pixeltable"
+description: "Open-source multimodal data infrastructure: call any OpenRouter model as a computed column over tables of images, video, audio and documents."
+url: "https://pixeltable.com"
+docs: "https://docs.pixeltable.com/howto/providers/working-with-openrouter"
+tags:
+  - other
+open_source: "https://github.com/pixeltable/pixeltable"
+date_added: "2026-10-24"
