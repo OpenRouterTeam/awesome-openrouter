@@ -1,0 +1,10 @@
+name: "Ouroboros"
+description: "An open-source agent with persistent memory that works on projects and can improve its own code through review. Connect your OpenRouter key, choose a model, and use the desktop app or headless CLI."
+url: "https://ouroboros-agent.ai/"
+docs: "https://github.com/razzant/ouroboros/blob/main/docs/architecture/07-configuration.md#default-settings"
+tags:
+  - coding
+  - productivity
+  - research
+open_source: "https://github.com/razzant/ouroboros"
+date_added: "2026-10-28"
