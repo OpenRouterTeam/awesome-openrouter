@@ -1,0 +1,9 @@
+name: "MultipleChat AI Desktop"
+description: "Desktop AI workspace for macOS and Windows. Bring your own OpenRouter API key to chat with models, ask questions about documents, and use AI agents. Chats and documents are stored on your computer."
+url: "https://multiple.chat/desktop-app"
+docs: "https://multiple.chat/desktop-app/docs#openrouter"
+tags:
+  - chat
+  - productivity
+  - research
+date_added: "2026-11-10"
