@@ -1,0 +1,8 @@
+name: "OrcaReplay"
+description: "Records a coding agent's model traffic and replays the run offline with no model called; fork the run from any step onto a different model to see who gets it right."
+url: "https://github.com/Continuum-AI-Corp/OrcaReplay"
+docs: "https://github.com/Continuum-AI-Corp/OrcaReplay#a-base-url-variable-orca-has-never-heard-of"
+tags:
+  - coding
+open_source: "https://github.com/Continuum-AI-Corp/OrcaReplay"
+date_added: "2026-09-16"
