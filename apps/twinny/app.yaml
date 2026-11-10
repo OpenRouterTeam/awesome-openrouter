@@ -1,0 +1,8 @@
+name: "twinny"
+description: "Free, open-source VS Code extension for code completion, chat, inline edit and code review. Bring your own OpenRouter key for chat and fill-in-the-middle completion."
+url: "https://twinny.dev"
+docs: "https://docs.twinny.dev/providers/hosted-apis/"
+tags:
+  - coding
+open_source: "https://github.com/twinnydotdev/twinny"
+date_added: "2026-10-01"
