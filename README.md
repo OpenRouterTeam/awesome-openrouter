@@ -79,6 +79,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Oriveo](#oriveo)
 - [Ottex](#ottex)
 - [Page Assist](#page-assist)
+- [Perch AI](#perch-ai)
 - [Pixeltable](#pixeltable)
 - [PostHog](#posthog)
 - [PostQode](#postqode)
@@ -762,6 +763,18 @@ An open-source browser extension that gives you a sidebar and web UI to chat wit
 `chat` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/n4ze3m/page-assist)
 
 [Documentation](https://docs.pageassist.xyz/providers/openai)
+
+---
+
+### [Perch AI](https://perchai.app)
+
+<img src="./apps/perch-ai/logo.png" alt="Perch AI logo" width="64" height="64">
+
+A team of AI agents that finishes the work. Perch plans the job, runs helper agents in parallel, checks their findings and cites every claim, on the web, on your desktop and in your terminal. Bring your own OpenRouter key on any plan, including the free one.
+
+`coding` `productivity` `research`
+
+[Documentation](https://www.perchai.app/docs/using-perch/bring-your-own-key)
 
 ---
 
