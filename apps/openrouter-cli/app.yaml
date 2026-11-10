@@ -1,0 +1,9 @@
+name: "OpenRouter CLI"
+description: "Unofficial CLI for every OpenRouter API endpoint. Browser-based OAuth login, inference, model discovery, analytics, benchmarks, and management, with pipeable --json output for humans and LLM agents."
+url: "https://github.com/aaronjmars/openroutercli"
+docs: "https://github.com/aaronjmars/openroutercli#quick-start"
+tags:
+  - coding
+  - productivity
+open_source: "https://github.com/aaronjmars/openroutercli"
+date_added: "2026-10-23"
