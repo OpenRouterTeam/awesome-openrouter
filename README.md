@@ -46,6 +46,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Chorus](#chorus)
 - [Cline](#cline)
 - [Cloudflare AI Gateway](#cloudflare-ai-gateway)
+- [CodeAF](#codeaf)
 - [CoWork OS](#cowork-os)
 - [Dexto](#dexto)
 - [Fud AI](#fud-ai)
@@ -365,6 +366,18 @@ Monitor, control, and optimize your AI applications.
 `productivity` `research`
 
 [Documentation](https://developers.cloudflare.com/ai-gateway/providers/openrouter/)
+
+---
+
+### [CodeAF](https://agentfield.ai/codeaf)
+
+<img src="./apps/codeaf/logo.png" alt="CodeAF logo" width="64" height="64">
+
+Open-source software factory for open models. One terminal window for every project: a request becomes parallel tasks in separate copies of the repo, checked and merged when they pass. Single Go binary, Apache-2.0.
+
+`coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/Agent-Field/CodeAF)
+
+[Documentation](https://agentfield.ai/docs/codeaf/connections)
 
 ---
 

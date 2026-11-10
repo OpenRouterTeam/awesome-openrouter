@@ -284,6 +284,18 @@
     "dateAdded": "2026-02-04"
   },
   {
+    "slug": "codeaf",
+    "name": "CodeAF",
+    "description": "Open-source software factory for open models. One terminal window for every project: a request becomes parallel tasks in separate copies of the repo, checked and merged when they pass. Single Go binary, Apache-2.0.",
+    "url": "https://agentfield.ai/codeaf",
+    "docs": "https://agentfield.ai/docs/codeaf/connections",
+    "tags": [
+      "coding"
+    ],
+    "openSource": "https://github.com/Agent-Field/CodeAF",
+    "dateAdded": "2026-10-30"
+  },
+  {
     "slug": "cowork-os",
     "name": "CoWork OS",
     "description": "Open-source desktop agent for macOS and Windows where every action is visible and approvable. Sign in with OpenRouter or bring your own key, then run coding, browser, document and inbox tasks with approvals, local memory and scheduled bots.",
