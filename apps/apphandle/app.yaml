@@ -1,0 +1,10 @@
+name: "AppHandle"
+description: "AppHandle is the AI app builder for people who don't code. Describe what you need in plain language"
+url: "https://apphandle.com/"
+docs: "https://apphandle.com/docs/use-your-own-model-key"  # Link to OpenRouter setup instructions
+tags:
+  - chat  # Choose from: chat, coding, productivity, creative, research, other
+  - coding
+  - productivity
+  - other
+date_added: "2026-10-22"  # Use today's date in YYYY-MM-DD format
