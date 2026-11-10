@@ -78,6 +78,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [OpenRouter CLI](#openrouter-cli)
 - [OpenRouter MCP Multimodal](#openrouter-mcp-multimodal)
 - [openrouter-rs](#openrouter-rs)
+- [OrcaReplay](#orcareplay)
 - [Oriveo](#oriveo)
 - [Ottex](#ottex)
 - [Ouroboros](#ouroboros)
@@ -755,6 +756,18 @@ Community-maintained Rust SDK and companion CLI for OpenRouter, with typed clien
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/realmorrisliu/openrouter-rs)
 
 [Documentation](https://github.com/realmorrisliu/openrouter-rs/blob/main/docs/community/awesome-openrouter/README.md)
+
+---
+
+### [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)
+
+<img src="./apps/orcareplay/logo.png" alt="OrcaReplay logo" width="64" height="64">
+
+Records a coding agent's model traffic and replays the run offline with no model called; fork the run from any step onto a different model to see who gets it right.
+
+`coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/Continuum-AI-Corp/OrcaReplay)
+
+[Documentation](https://github.com/Continuum-AI-Corp/OrcaReplay#a-base-url-variable-orca-has-never-heard-of)
 
 ---
 

@@ -696,6 +696,18 @@
     "dateAdded": "2026-04-20"
   },
   {
+    "slug": "orcareplay",
+    "name": "OrcaReplay",
+    "description": "Records a coding agent's model traffic and replays the run offline with no model called; fork the run from any step onto a different model to see who gets it right.",
+    "url": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+    "docs": "https://github.com/Continuum-AI-Corp/OrcaReplay#a-base-url-variable-orca-has-never-heard-of",
+    "tags": [
+      "coding"
+    ],
+    "openSource": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+    "dateAdded": "2026-09-16"
+  },
+  {
     "slug": "oriveo",
     "name": "Oriveo",
     "description": "A multi-model AI chat app for iOS, Android, and web. Bring your own OpenRouter API key, switch models mid-conversation, track estimated cost per reply, and keep chats local-first with optional cross-device sync.",
