@@ -696,6 +696,18 @@
     "dateAdded": "2026-09-22"
   },
   {
+    "slug": "pixeltable",
+    "name": "Pixeltable",
+    "description": "Open-source multimodal data infrastructure: call any OpenRouter model as a computed column over tables of images, video, audio and documents.",
+    "url": "https://pixeltable.com",
+    "docs": "https://docs.pixeltable.com/howto/providers/working-with-openrouter",
+    "tags": [
+      "other"
+    ],
+    "openSource": "https://github.com/pixeltable/pixeltable",
+    "dateAdded": "2026-10-24"
+  },
+  {
     "slug": "posthog",
     "name": "PostHog",
     "description": "Dev tools that help product engineers build successful products.",

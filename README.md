@@ -78,6 +78,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Oriveo](#oriveo)
 - [Ottex](#ottex)
 - [Page Assist](#page-assist)
+- [Pixeltable](#pixeltable)
 - [PostHog](#posthog)
 - [PostQode](#postqode)
 - [Project AIRI](#project-airi)
@@ -748,6 +749,18 @@ An open-source browser extension that gives you a sidebar and web UI to chat wit
 `chat` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/n4ze3m/page-assist)
 
 [Documentation](https://docs.pageassist.xyz/providers/openai)
+
+---
+
+### [Pixeltable](https://pixeltable.com)
+
+<img src="./apps/pixeltable/logo.png" alt="Pixeltable logo" width="64" height="64">
+
+Open-source multimodal data infrastructure: call any OpenRouter model as a computed column over tables of images, video, audio and documents.
+
+`other` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/pixeltable/pixeltable)
+
+[Documentation](https://docs.pixeltable.com/howto/providers/working-with-openrouter)
 
 ---
 
