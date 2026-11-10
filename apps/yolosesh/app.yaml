@@ -1,0 +1,9 @@
+name: "YoloSesh"
+description: "An AI coding agent for your Mac or a cloud workspace in your browser. Bring your own OpenRouter key, orchestrate multi-agent work, and share sessions on the live leaderboard."
+url: "https://yolosesh.com"
+docs: "https://yolosesh.com/download"
+tags:
+  - coding
+  - productivity
+open_source: ""
+date_added: "2026-10-25"
