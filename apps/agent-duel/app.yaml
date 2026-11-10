@@ -1,0 +1,8 @@
+name: "Agent Duel"
+description: "A desktop app for blind coding-agent battles. Give two agents the same task, compare their changes, and continue with your chosen result. Source builds support bringing your own OpenRouter API key."
+url: "https://agentduel.com"
+docs: "https://github.com/bottomless/agent-duel#develop-locally"
+tags:
+  - coding
+open_source: "https://github.com/bottomless/agent-duel"
+date_added: "2026-11-10"
