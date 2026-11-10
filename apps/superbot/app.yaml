@@ -1,0 +1,8 @@
+name: "Superbot"
+description: "Your own AI agent: anything you can do on your computer, it can do, fast, and it runs your recurring tasks on a schedule across all your devices. Download at superbot.gg/download. Bring your own OpenRouter key or use ours."
+url: "https://superbot.gg"
+docs: "https://superbot.gg/docs#external-apis"
+tags:
+  - productivity
+  - chat
+date_added: "2026-10-22"
