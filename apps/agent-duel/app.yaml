@@ -1,0 +1,8 @@
+name: "Agent Duel"
+description: "A desktop app for head-to-head coding agent battles, with single-agent mode and free inference. Pick the winning agent and continue from its work."
+url: "https://agentduel.com"
+docs: "https://github.com/bottomless/agent-duel#develop-locally"
+tags:
+  - coding
+open_source: "https://github.com/bottomless/agent-duel"
+date_added: "2026-11-11"
