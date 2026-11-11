@@ -1,7 +1,7 @@
 name: "Chai UI"
 description: "Open-source React, Vue and Svelte components for AI apps: a prompt composer, result and edit cards, a side panel and interactive responses. OpenRouter is a built-in engine: bring your own key and pick from suggested models."
 url: "https://chai-ui.com"
-docs: "https://chai-ui.com/docs/develop"
+docs: "https://chai-ui.com/docs/develop#openrouter"
 tags:
   - coding
   - creative
