@@ -1,0 +1,8 @@
+name: "omk"
+description: "Open-source multi-agent coding CLI for the terminal (TypeScript, MIT). Switch models mid-session; finish goals only when your test passes."
+url: "https://github.com/dmae97/omk"
+docs: "https://github.com/dmae97/omk/blob/main/packages/coding-agent/docs/providers.md#environment-variables-or-auth-file"
+tags:
+  - coding
+open_source: "https://github.com/dmae97/omk"
+date_added: "2026-11-12"
