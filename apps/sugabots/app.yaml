@@ -1,0 +1,9 @@
+name: "Sugabots"
+description: "A self-hosted workspace where people and AI agents work together: put bots in shared pods, talk with them in threads and channels, and let them use tools, MCP connections and a sandboxed computer. Bring your own OpenRouter key, and everything stays in your own database."
+url: "https://sugabots.ai"
+docs: "https://sugabots.ai/docs/models#openrouter"
+tags:
+  - chat
+  - productivity
+open_source: "https://github.com/nitrictech/sugabots"
+date_added: "2026-11-12"
