@@ -1,0 +1,9 @@
+
+name: "SideNote Pro"
+description: "A native Windows AI assistant that docks beside your applications. Connect OpenRouter, choose your AI models, and keep assistance visible while you work."
+url: "https://sidenotepro.com"
+docs: "https://sidenotepro.com/guide/connect-openrouter"
+tags:
+  - chat
+  - productivity
+date_added: "2026-11-12"
