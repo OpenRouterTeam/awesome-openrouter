@@ -1,0 +1,9 @@
+name: "Codewhale"
+description: "Open-source coding agent for your terminal, written in Rust. Bring your own OpenRouter key to choose models, edit code, run commands, and delegate work to multiple agents."
+url: "https://codewhale.net"
+docs: "https://codewhale.net/en/models"
+tags:
+  - coding
+  - productivity
+open_source: "https://github.com/codewhale-hq/Codewhale"
+date_added: "2026-11-12"
