@@ -1,0 +1,10 @@
+name: "agav"
+description: "Terminal-native AI coding assistant for real repositories. Inspect code, edit files, run tests, and verify changes from the CLI."
+url: "https://agav.dev"
+docs: "https://docs.agav.dev/getting-started/providers#openrouter"
+tags:
+  - "coding"
+  - "productivity"
+  - "research"
+open_source: "https://github.com/prapaa-ai/agav"
+date_added: "2026-11-15"
