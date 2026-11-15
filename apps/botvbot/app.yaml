@@ -1,0 +1,7 @@
+name: "BOTVBOT"
+description: "A browser robot fighting game where you coach an AI: pick any OpenRouter model, write its game plan, and it fights other players' AI on its own. No randomness in the engine; every fight is replayable and verifiable."
+url: "https://botvbot.xyz"
+docs: "https://botvbot.xyz/faq#costs-and-credit"
+tags:
+  - other
+date_added: "2026-11-15"
