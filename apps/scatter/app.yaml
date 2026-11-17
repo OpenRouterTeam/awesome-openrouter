@@ -1,0 +1,8 @@
+name: "Scatter"
+description: "Scatter is a study app with a mind map that grows with each question. Open an unfamiliar term as a new branch, keep the original explanation in view, and choose OpenRouter models for different tasks."
+url: "https://scatter.study"
+docs: "https://github.com/ctrlaltjakub/scatter#get-started"
+tags:
+  - research
+  - chat
+date_added: "2026-11-17"
