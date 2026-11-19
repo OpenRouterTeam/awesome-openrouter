@@ -1,0 +1,8 @@
+name: "co-maintainer"
+description: "Open source PR reviewer that learns how your repo is reviewed from past PR review comments, then reviews like that. CLI or self-hosted GitHub App. OpenRouter is the default provider, bring your own key."
+url: "https://co-maintainer.com/?utm_source=openrouter"
+docs: "https://co-maintainer.com/docs/providers.html?utm_source=openrouter"
+tags:
+  - coding
+open_source: "https://github.com/GroophyLifefor/co-maintainer"
+date_added: "2026-11-19"
