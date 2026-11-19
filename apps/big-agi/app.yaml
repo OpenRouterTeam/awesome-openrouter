@@ -1,0 +1,9 @@
+name: "Big-AGI"
+description: "The AI workspace for experts: switch across 800+ models mid-chat using your OpenRouter key, other providers, and local models, tune 40+ parameters, and Beam models side by side. Self-hostable, built on a native-protocol engine: reliable, hyper-configurable, and fast."
+url: "https://big-agi.com"
+docs: "https://big-agi.com/docs/connect-openrouter"
+tags:
+  - chat
+  - research
+open_source: "https://github.com/enricoros/big-AGI"
+date_added: "2026-11-19"
