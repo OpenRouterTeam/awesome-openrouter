@@ -1,0 +1,8 @@
+name: "Pexi"
+description: "Chrome side-panel agent that uses your own OpenRouter API key to compare shared tabs, research with source links, fill forms, and prepare email drafts. Pexi is paid after a 7-day card-backed trial, and OpenRouter usage is billed separately."
+url: "https://pexibot.com/?utm_source=openrouter&utm_medium=referral&utm_campaign=pexi_chrome_launch"
+docs: "https://pexibot.com/workflows/bring-your-own-api-key-browser-agent"
+tags:
+  - productivity
+  - research
+date_added: "2026-11-19"
