@@ -1,0 +1,8 @@
+name: "Vinaa"
+description: "Native AI chat app for Mac. Sign in with OpenRouter to use hundreds of models, switch models mid-conversation, navigate long threads with an outline, add MCP tools, and keep your chat history local."
+url: "https://www.vinaa.ai"
+docs: "https://vinaa.featurebase.app/help/articles/7600643-connect-openrouter"
+tags:
+  - chat
+  - productivity
+date_added: "2026-11-20"
