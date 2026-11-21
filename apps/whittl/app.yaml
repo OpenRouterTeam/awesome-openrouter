@@ -1,0 +1,7 @@
+name: "Whittl"
+description: "Desktop app for Windows and Linux that builds Python applications from a plain-language description. Bring your own OpenRouter API key and pick any model: Whittl writes the code, runs it, fixes errors, and packages the result as an installer or an Android APK."
+url: "https://lyndeneftoda.com/projects/whittl.html"
+docs: "https://lyndeneftoda.com/docs/backends/openrouter/"
+tags:
+  - coding
+date_added: "2026-11-21"
