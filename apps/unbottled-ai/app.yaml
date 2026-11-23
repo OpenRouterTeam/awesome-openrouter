@@ -1,0 +1,9 @@
+name: "unbottled.ai"
+description: "Open-source AI chat with mainstream, open and uncensored models plus image, video, music and speech generation. Self-host the next-vibe code and paste your own OpenRouter key in the setup wizard."
+url: "https://unbottled.ai"
+docs: "https://unbottled.ai/en-US/story/self-host"
+tags:
+  - chat
+  - creative
+open_source: "https://github.com/techfreaque/next-vibe"
+date_added: "2026-11-23"
