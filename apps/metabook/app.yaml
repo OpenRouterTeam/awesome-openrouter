@@ -1,0 +1,8 @@
+name: "MetaBook"
+description: "Generate a personalized nonfiction book on Android using your own OpenRouter API key. Choose a topic, shape the outline, and rewrite or simplify a selected passage as you read."
+url: "https://metabook.store"
+docs: "https://metabook.store/#setup"
+tags:
+  - creative
+  - research
+date_added: "2026-11-26"
